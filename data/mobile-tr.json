@@ -1,0 +1,5217 @@
+[
+  {
+    "table": "MAIN",
+    "key": "000EC9CA",
+    "text": "İptal etmek için Esc tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "0056529D",
+    "text": "İstatistikler"
+  },
+  {
+    "table": "MAIN",
+    "key": "00E02013",
+    "text": "ARKAYA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "01EBE439",
+    "text": "Makineyi kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "02434D16",
+    "text": "Radyo istasyonunu değiştirmek için ~m~~widget_swipe_radio_up~ veya ~m~~widget_swipe_radio_down~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "0246C750",
+    "text": "KLAVYE KONTROLLERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "027F1515",
+    "text": "Y HASSASİYETİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "02A03A8C",
+    "text": "SEÇ"
+  },
+  {
+    "table": "MAIN",
+    "key": "02A2636D",
+    "text": "SİSLİ HAVA"
+  },
+  {
+    "table": "MAIN",
+    "key": "02B42D4C",
+    "text": "Fren için ~m~~widget_brake~ tuşuna bas. Bisiklet durunca geri gitmek için basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "03410F08",
+    "text": "İSTATİSTİKLERİ GÖR"
+  },
+  {
+    "table": "MAIN",
+    "key": "0376D4C5",
+    "text": "Vinci araca yaklaştırmak için ~m~~widget_helicopter_magnet_up~ ve ~m~~widget_helicopter_magnet_down~ tuşlarını basılı tut. Bırakmak için ~m~~widget_drop_crane~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "044DF7D1",
+    "text": "Kaydediliyor..."
+  },
+  {
+    "table": "MAIN",
+    "key": "05670267",
+    "text": "Kontrolleri Düzenle"
+  },
+  {
+    "table": "MAIN",
+    "key": "05CFA774",
+    "text": "HIZLI ZAMAN"
+  },
+  {
+    "table": "MAIN",
+    "key": "065CA931",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $10,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "06862020",
+    "text": "Egzersize başlamak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "0738B07B",
+    "text": "Sağa yürü veya koş."
+  },
+  {
+    "table": "MAIN",
+    "key": "07514845",
+    "text": "Vice City ve GTA III'e benzer bir tuş düzeni kullan."
+  },
+  {
+    "table": "MAIN",
+    "key": "076AB8A8",
+    "text": "FARE TEKERLEĞİ GERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "07886A15",
+    "text": "~m~~widget_roulette_up~ ~m~~widget_roulette_left~ ~m~~widget_roulette_down~ ~m~~widget_roulette_right~ ile alan seç. Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "083F33FF",
+    "text": "DURAKLAT"
+  },
+  {
+    "table": "MAIN",
+    "key": "08533DBF",
+    "text": "Saç modeli seçmek için dokun. Önizleme için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "08F1F150",
+    "text": "Direksiyon yöntemini seç."
+  },
+  {
+    "table": "MAIN",
+    "key": "099AFE2B",
+    "text": "ŞERİT DÜZELTME"
+  },
+  {
+    "table": "MAIN",
+    "key": "09A72E43",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $1,000,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "09CC4668",
+    "text": "Sinematik kamera türünü değiştirmek için ~m~~widget_camera~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "0A25B0B1",
+    "text": "Zıpla veya yukarı tırman."
+  },
+  {
+    "table": "MAIN",
+    "key": "0AF781EF",
+    "text": "Hareket kontrolleriyle alan seç. Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "0B5F949A",
+    "text": "MENÜYÜ AÇ"
+  },
+  {
+    "table": "MAIN",
+    "key": "0B6B8BD2",
+    "text": "İŞARETİ KALDIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "0B7C98C7",
+    "text": "Ağırlığı kaldırmak için ~m~~widget_tap_meter_button~ tuşuna veya enerji çubuğu işaretli alandayken çubuğa dokun. Kasların gelişir. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "0B97A945",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "0C7BB2BE",
+    "text": "Uçuşun sonuna atlamak için ~m~~widget_skip_cutscene~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "0CDF9F07",
+    "text": "KUMANDA Y HASSASİYETİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "0D4874A8",
+    "text": "Kamerayı yakınlaştır."
+  },
+  {
+    "table": "MAIN",
+    "key": "0D4A8C0D",
+    "text": "Grand Theft Auto: San Andreas için 2,5 GB ek indirme gerekiyor. İndirme tamamlanana kadar Wi-Fi bağlantını ve cihazının şarjda olduğunu kontrol et."
+  },
+  {
+    "table": "MAIN",
+    "key": "0E338E42",
+    "text": "Ağırlığı kaldırmak için ~m~~widget_tap_meter_button~ tuşuna art arda bas. Bu, kaslarını geliştirir. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "0E3E1748",
+    "text": "Fotoğraf çekmek için ~m~~widget_vc_shoot~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "0E7652BF",
+    "text": "Carl'ı hareket ettirmek için ekranın sol alt köşesine dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "0F136056",
+    "text": "VİNÇ YÜKÜNÜ BIRAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "0FADA459",
+    "text": "Silahı almak için ~m~~widget_swap_weapons~ tuşuna bas. Aynı türdeki mevcut silahının yerini alır."
+  },
+  {
+    "table": "MAIN",
+    "key": "0FAE50AC",
+    "text": "NİŞAN ALMA MODU"
+  },
+  {
+    "table": "MAIN",
+    "key": "0FB9CBBB",
+    "text": "Gün seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "0FD6D1C1",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "0FD77604",
+    "text": "Kart çek: ~m~~widget_black_jack_hit~. Kal: ~m~~widget_black_jack_stand~. İkiye katla: ~m~~widget_black_jack_double~. Böl: ~m~~widget_black_jack_split~. Çık: ~m~~widget_minigame_cancel~."
+  },
+  {
+    "table": "MAIN",
+    "key": "0FEAE51A",
+    "text": "$1'a atıştırmalık almak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "10855907",
+    "text": "EK İŞLER"
+  },
+  {
+    "table": "MAIN",
+    "key": "11534C2A",
+    "text": "Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "119C1042",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $1,000,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "11D7125A",
+    "text": "Aracı kontrol etmek için ekranın sol alt köşesinde parmağını hızlıca kaydır."
+  },
+  {
+    "table": "MAIN",
+    "key": "11D888BA",
+    "text": "Bisiklette ağırlığını kaydırmak için ~m~~widget_ped_move_left~ veya ~m~~widget_ped_move_right~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "120B195F",
+    "text": "VARSAYILANA DÖN"
+  },
+  {
+    "table": "MAIN",
+    "key": "12AAB9A1",
+    "text": "Vücut bölgesini seçmek için dokun. Kaldırmak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "1326A381",
+    "text": "SİLAHLAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "133E81F0",
+    "text": "Silah dürbününü uzaklaştır."
+  },
+  {
+    "table": "MAIN",
+    "key": "13EFB944",
+    "text": "ORİJİNAL"
+  },
+  {
+    "table": "MAIN",
+    "key": "14123F80",
+    "text": "Oyundan Çık"
+  },
+  {
+    "table": "MAIN",
+    "key": "145345E9",
+    "text": "Ana menüyü aç."
+  },
+  {
+    "table": "MAIN",
+    "key": "14F4E3CF",
+    "text": "Yıkım topunu indirmek için ~m~~widget_crane_down~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "15240324",
+    "text": "ALTYAZILAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "15A3682D",
+    "text": "Özet"
+  },
+  {
+    "table": "MAIN",
+    "key": "15E903D7",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "15F4B3AD",
+    "text": "Hareket kontrolleriyle seviye seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "16085117",
+    "text": "ARACA BİN / ARAÇTAN İN"
+  },
+  {
+    "table": "MAIN",
+    "key": "16189D5F",
+    "text": "S"
+  },
+  {
+    "table": "MAIN",
+    "key": "16656C26",
+    "text": "ANALOG HASSASİYETİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "166D9436",
+    "text": "KLASİK"
+  },
+  {
+    "table": "MAIN",
+    "key": "166DBC18",
+    "text": "Seçeneklere erişmek için ~m~~widget_school_exit~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "16CDE080",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $10,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "1801E137",
+    "text": "PUAN"
+  },
+  {
+    "table": "MAIN",
+    "key": "1848D98C",
+    "text": "ÇÖZÜNÜRLÜK"
+  },
+  {
+    "table": "MAIN",
+    "key": "188FB7A8",
+    "text": "Görünümü değiştirmek için ~m~~widget_camera~, özel danstan çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "18C184D9",
+    "text": "Görünümü değiştirmek için ~m~~widget_camera~, özel danstan çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "18D954F3",
+    "text": "YAYA KONTROLLERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "18F6BCF2",
+    "text": "."
+  },
+  {
+    "table": "MAIN",
+    "key": "1AAFDAD0",
+    "text": "$50'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "1AC5CF13",
+    "text": "Devam etmek için kırmızı işarete yürü. Hızlı koşmak için ~m~~widget_sprint~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "1AED791A",
+    "text": "KORNA"
+  },
+  {
+    "table": "MAIN",
+    "key": "1B642454",
+    "text": "X HASSASİYETİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "1B7BC642",
+    "text": "Harita"
+  },
+  {
+    "table": "MAIN",
+    "key": "1CDB2966",
+    "text": "Ayarlar"
+  },
+  {
+    "table": "MAIN",
+    "key": "1D309830",
+    "text": "BOYA DESENİ 1"
+  },
+  {
+    "table": "MAIN",
+    "key": "1DA6720C",
+    "text": "$10'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "1DADEAA1",
+    "text": "Hareket kontrolleriyle yükseltme seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "1DE4D1C6",
+    "text": "SAĞA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "1E1C5F82",
+    "text": "Hareket kontrolleriyle renk seç. Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "1E1F9561",
+    "text": "Bilardo oynamak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "1E23813A",
+    "text": "Ana menüyü aç."
+  },
+  {
+    "table": "MAIN",
+    "key": "1FE0CC55",
+    "text": "$20'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "207B7BD6",
+    "text": "DOKUNMATİK DİREKSİYON"
+  },
+  {
+    "table": "MAIN",
+    "key": "209212B0",
+    "text": "UÇUŞ İKİNCİL SİLAHI"
+  },
+  {
+    "table": "MAIN",
+    "key": "2102F71B",
+    "text": "VARSAYILANLARA DÖN"
+  },
+  {
+    "table": "MAIN",
+    "key": "2108E372",
+    "text": "Kamerayı aracın sol tarafına çevirir."
+  },
+  {
+    "table": "MAIN",
+    "key": "2248F470",
+    "text": "Ambulans görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "22661875",
+    "text": "$5'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "22BEC45B",
+    "text": "Vücut bölgesini seçmek için dokun. Kaldırmak için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "2301FADD",
+    "text": "Emin misin? Çıkmak için ~m~~widget_store_accept~, dansa dönmek için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "244C5A5A",
+    "text": "ZIPLA"
+  },
+  {
+    "table": "MAIN",
+    "key": "24B0D398",
+    "text": "Mücadele modunu başlatmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "24B598C0",
+    "text": "Mıknatısı indirmek için ~m~~widget_crane_down~, kaldırmak için ~m~~widget_crane_up~ tuşunu kullan."
+  },
+  {
+    "table": "MAIN",
+    "key": "24D925A4",
+    "text": "İlerlemeni kaydettiğinden emin ol.~n~ Mağazayı açmak istiyor musun?"
+  },
+  {
+    "table": "MAIN",
+    "key": "24FB8202",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "254588F6",
+    "text": "Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "25C3EB0F",
+    "text": "ATANMAMIŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "25E63186",
+    "text": "Carl'ı hareket ettirmek için ~m~~widget_ped_move_up~, ~m~~widget_ped_move_left~, ~m~~widget_ped_move_down~ veya ~m~~widget_ped_move_right~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "25EEAD5B",
+    "text": "Araçtan ateş etmek için önce ~m~~widget_look_left~ veya ~m~~widget_look_right~ ile yana bak, ardından ~m~~widget_attack~ ile ateş et."
+  },
+  {
+    "table": "MAIN",
+    "key": "2628BCEF",
+    "text": "STANDART"
+  },
+  {
+    "table": "MAIN",
+    "key": "2665276B",
+    "text": "Araca özel görevleri başlat veya iptal et; araç bombası ve çivili şerit gibi görev araçlarını kullan."
+  },
+  {
+    "table": "MAIN",
+    "key": "2693C2C1",
+    "text": "SUDA SÜRÜŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "26B9EE56",
+    "text": "Satın almak için ~m~~widget_store_buy~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "26DECAB6",
+    "text": "Son kontrol noktasından tekrar denensin mi?"
+  },
+  {
+    "table": "MAIN",
+    "key": "2756E17D",
+    "text": "Çıkış"
+  },
+  {
+    "table": "MAIN",
+    "key": "27D7DACA",
+    "text": "KLASİK"
+  },
+  {
+    "table": "MAIN",
+    "key": "2825622D",
+    "text": "SONUÇLAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "2875EE6F",
+    "text": "Başparmağını ekranın sol alt köşesine koyunca analog çubuk görünür. Hassasiyeti Kontrolleri Düzenle menüsünden ayarlayabilirsin."
+  },
+  {
+    "table": "MAIN",
+    "key": "28F12821",
+    "text": "UÇAN ARABALAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "294308F4",
+    "text": "Millie arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "299AF4F9",
+    "text": "Ambulans görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "2A25137C",
+    "text": "KONTROL NOKTASI KAYDI YOK"
+  },
+  {
+    "table": "MAIN",
+    "key": "2A2F496C",
+    "text": "Devam Et"
+  },
+  {
+    "table": "MAIN",
+    "key": "2AD80163",
+    "text": "ORTA"
+  },
+  {
+    "table": "MAIN",
+    "key": "2AE2D663",
+    "text": "ÇÖMEL"
+  },
+  {
+    "table": "MAIN",
+    "key": "2AE8690C",
+    "text": "Topun yanında dur; CJ topu otomatik alır. Basketboldan çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "2B7827A1",
+    "text": "Araçta fren yap."
+  },
+  {
+    "table": "MAIN",
+    "key": "2B784461",
+    "text": "DENEYSEL"
+  },
+  {
+    "table": "MAIN",
+    "key": "2C15E3B8",
+    "text": "Uçağın burnunu aşağı eğmek için alternatif kontrol."
+  },
+  {
+    "table": "MAIN",
+    "key": "2CBE4304",
+    "text": "Bombayı kurmak için ~m~~widget_vehicle_bomb~ tuşuna dokun. Motor çalıştırılınca patlar."
+  },
+  {
+    "table": "MAIN",
+    "key": "2CF4EE55",
+    "text": "ARKAYA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "2D588C56",
+    "text": "Mülkü satın almak için ~m~~widget_purchase~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "2D6CCFCE",
+    "text": "Pedal çevirmek için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "2D70DEFF",
+    "text": "ARKAYA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "2D85AD15",
+    "text": "Basketbola devam etmek için sahaya dön veya çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "2DD2F12A",
+    "text": "Su altında yüzmek için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "2E2ECCED",
+    "text": "Michelle arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "2E9EE46F",
+    "text": "Hareket kontrolleriyle ağırlık seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "2EF730E0",
+    "text": "İtfaiye görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "2F258EEA",
+    "text": "ARANMA SEVİYESİNİ 2 DÜŞÜR"
+  },
+  {
+    "table": "MAIN",
+    "key": "3038021E",
+    "text": "KAMERAYI UZAKLAŞTIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "30C7CE9B",
+    "text": "SAĞA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "31CD8DE8",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "32E759FC",
+    "text": "Yeni Oyun"
+  },
+  {
+    "table": "MAIN",
+    "key": "333A3E96",
+    "text": "Yeterince hızlı yürümezsen koşu bandından düşersin."
+  },
+  {
+    "table": "MAIN",
+    "key": "33D6C797",
+    "text": "Michelle arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "33E4506F",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "33F9E722",
+    "text": "FREN"
+  },
+  {
+    "table": "MAIN",
+    "key": "3457FA8F",
+    "text": "Koşmaya başlamak için ~m~~widget_thumb_circle~ tuşuna hızla bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "34945BB0",
+    "text": "ÇÖZÜNÜRLÜK"
+  },
+  {
+    "table": "MAIN",
+    "key": "34BB038E",
+    "text": "Millie arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "350C428B",
+    "text": "Vinci araca yaklaştırmak için ~m~~widget_helicopter_magnet_up~ ve ~m~~widget_helicopter_magnet_down~ tuşlarını basılı tut. Bırakmak için ~m~~widget_drop_crane~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "35A6C467",
+    "text": "Giymek için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "35D1D620",
+    "text": "EVET"
+  },
+  {
+    "table": "MAIN",
+    "key": "363E7B28",
+    "text": "Hediyeyi vermek için ~m~~widget_gift~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "382AF227",
+    "text": "SERBEST NİŞAN"
+  },
+  {
+    "table": "MAIN",
+    "key": "385ABBE4",
+    "text": "EN YÜKSEK"
+  },
+  {
+    "table": "MAIN",
+    "key": "38C3D00D",
+    "text": "Hareket kontrolleriyle kıyafet mağazası seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "38E43E5B",
+    "text": "HATA: BİLİNMEYEN TUŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "396C9549",
+    "text": "YÜKSEK"
+  },
+  {
+    "table": "MAIN",
+    "key": "39C08117",
+    "text": "Kıyafeti seçmek için dokun. Görmek için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "39F88118",
+    "text": "ALTYAZILAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "3A410627",
+    "text": "Telefon konuşmasını atlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "3A521C44",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "3A76DA02",
+    "text": "Basketbol oynamak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "3AC16699",
+    "text": "Hareket kontrolleri vinci döndürür. Kaldırmak için ~m~~widget_crane_up~, indirmek için ~m~~widget_crane_down~ tuşunu basılı tut. Yükü bırakmak için ~m~~widget_drop_crane~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "3B67637E",
+    "text": "ÖNCEKİ SİLAH"
+  },
+  {
+    "table": "MAIN",
+    "key": "3B87B697",
+    "text": "SİLAH DÜRBÜNÜNÜ YAKINLAŞTIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "3C010DA5",
+    "text": "Dövmeyi seçmek için dokun. Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "3CF59C1A",
+    "text": "Bisiklete binmek için ~m~~widget_explicit_bicycle~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "3CF709C8",
+    "text": "BAHİS: $~1~"
+  },
+  {
+    "table": "MAIN",
+    "key": "3E5C69B7",
+    "text": "OYUN HİLELERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "3F4B5024",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "3F4DC4C8",
+    "text": "İtfaiye görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "3F7E162A",
+    "text": "Kamerayı uzaklaştır."
+  },
+  {
+    "table": "MAIN",
+    "key": "402C67F6",
+    "text": "ROCKSTAR GAMES HESABI"
+  },
+  {
+    "table": "MAIN",
+    "key": "4052F691",
+    "text": "KAMERAYI YAKINLAŞTIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "40974706",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "411A892B",
+    "text": "Hareket kontrolleriyle silah türü seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "42626874",
+    "text": "JAPONCA"
+  },
+  {
+    "table": "MAIN",
+    "key": "42F492B1",
+    "text": "$1'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "4350CA19",
+    "text": "Seviyeyi değiştirmek için ~m~~widget_gym_easier~ ve ~m~~widget_gym_harder~ tuşlarına bas. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "43858357",
+    "text": "GELİŞMİŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "43B8DD1C",
+    "text": "DURAKLAT"
+  },
+  {
+    "table": "MAIN",
+    "key": "43BC3318",
+    "text": "Katie arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "43DDDEC8",
+    "text": "Bu seçenekleri Kontrolleri Düzenle menüsünden değiştirebilirsin."
+  },
+  {
+    "table": "MAIN",
+    "key": "44D1F701",
+    "text": "Denise arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "44E360F9",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "453B8A27",
+    "text": "Emin misin? Çıkmak için ~m~~widget_store_accept~, dansa dönmek için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "45FD3A6D",
+    "text": "$5'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "460ADD71",
+    "text": "$1'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "46CABD7E",
+    "text": "Kart çekmek için ~m~~widget_black_jack_hit~, kalmak için ~m~~widget_black_jack_stand~, çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "4724D2B3",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $1,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "4846F7D1",
+    "text": "OTOMATİK TIRMANMA"
+  },
+  {
+    "table": "MAIN",
+    "key": "484C60B2",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "487926BC",
+    "text": "Kamerayı yakınlaştır."
+  },
+  {
+    "table": "MAIN",
+    "key": "4A38E8CB",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "4A8AC6F9",
+    "text": "Fotoğrafını çektirmek için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "4B0D97F1",
+    "text": "ALTERNATİF UÇUŞ SAĞA DÖNÜŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "4BF0395E",
+    "text": "JETON: $~1~"
+  },
+  {
+    "table": "MAIN",
+    "key": "4BFF1C53",
+    "text": "Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "4C35D270",
+    "text": "X, olası tuş çakışmasını belirtir."
+  },
+  {
+    "table": "MAIN",
+    "key": "4C76648D",
+    "text": "Çarkıfelek oynamak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "4CAB2226",
+    "text": "KLASİK"
+  },
+  {
+    "table": "MAIN",
+    "key": "4D552CD2",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "4DC57347",
+    "text": "HAREKET SENSÖRÜ"
+  },
+  {
+    "table": "MAIN",
+    "key": "4DE3CD0D",
+    "text": "Fotoğraf çekmek için ~m~~widget_vc_shoot~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "4E260220",
+    "text": "RUSÇA"
+  },
+  {
+    "table": "MAIN",
+    "key": "4E6BA5DF",
+    "text": "EN YÜKSEK"
+  },
+  {
+    "table": "MAIN",
+    "key": "4E6EC68E",
+    "text": "SOLA GİT"
+  },
+  {
+    "table": "MAIN",
+    "key": "4E8E1367",
+    "text": "ÇETEYE AL / TAKİP ETTİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "4F21A4AB",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "4F30C1D4",
+    "text": "SİMÜLASYON HIZI"
+  },
+  {
+    "table": "MAIN",
+    "key": "4F5D8B72",
+    "text": "AYRINTILI"
+  },
+  {
+    "table": "MAIN",
+    "key": "4FCEFFB7",
+    "text": "$10'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "4FDF93E4",
+    "text": "Sık kullanılan tuşların yerine ekran köşelerini kullan."
+  },
+  {
+    "table": "MAIN",
+    "key": "4FF374B9",
+    "text": "Geri"
+  },
+  {
+    "table": "MAIN",
+    "key": "501833D6",
+    "text": "HİDROLİKLERİ KİLİTLE"
+  },
+  {
+    "table": "MAIN",
+    "key": "50C68EDE",
+    "text": "İstatistikler"
+  },
+  {
+    "table": "MAIN",
+    "key": "50C755CD",
+    "text": "Güç çubuğu dolunca ~m~~widget_sprint~ tuşuna bas. Görünümü değiştirmek için ~m~~widget_camera~, çıkmak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5160526B",
+    "text": "Hareket kontrolleriyle araç seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "516217FD",
+    "text": "Buldozer, damper veya forklift yükünü kaldır ya da indir."
+  },
+  {
+    "table": "MAIN",
+    "key": "5194F257",
+    "text": "ZIRH"
+  },
+  {
+    "table": "MAIN",
+    "key": "51C1EF4F",
+    "text": "ANALOG"
+  },
+  {
+    "table": "MAIN",
+    "key": "53A65BB3",
+    "text": "Daha hızlı pedal çevirmek için ~m~~widget_accelerate~ tuşuna art arda bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "53B2A856",
+    "text": "Vinci hareket ettirmek istediğin yöne bas. Kamera görünümünü ~m~~widget_camera~ ile değiştir."
+  },
+  {
+    "table": "MAIN",
+    "key": "53B7E30E",
+    "text": "Topun yanında dur; CJ topu otomatik alır. Basketboldan çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5558DA2C",
+    "text": "İnternet bağlantını kontrol et.~N~ İndirmeye devam etmek istiyor musun?"
+  },
+  {
+    "table": "MAIN",
+    "key": "55692C3A",
+    "text": "SALDIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "5600DAF6",
+    "text": "GÖRÜŞ MESAFESİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "560FD3E4",
+    "text": "Korna çal."
+  },
+  {
+    "table": "MAIN",
+    "key": "566920F0",
+    "text": "GTA SAN ANDREAS'I DEĞERLENDİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "56F9364E",
+    "text": "SİLAHLAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "5753258A",
+    "text": "Uçuşun sonuna atlamak için ~m~~widget_skip_cutscene~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5775F7CF",
+    "text": "SOLA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "5822BE7C",
+    "text": "SİYAH ARABALAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "58BE1141",
+    "text": "Hareket kontrolleriyle vücut bölgesi seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "58EA7096",
+    "text": "HİLELER"
+  },
+  {
+    "table": "MAIN",
+    "key": "5929FC7B",
+    "text": "Denise arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "59714192",
+    "text": "Hareket kontrolleri vinci döndürür. Kaldırmak için ~m~~widget_crane_up~, indirmek için ~m~~widget_crane_down~ tuşunu basılı tut. Yükü bırakmak için ~m~~widget_drop_crane~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "598C7647",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "59E5C421",
+    "text": "KARGAŞA"
+  },
+  {
+    "table": "MAIN",
+    "key": "59F00076",
+    "text": "Yük treni görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5A6F9AC1",
+    "text": "İLERİ GİT"
+  },
+  {
+    "table": "MAIN",
+    "key": "5A829D83",
+    "text": "Topu atmak için ~m~~widget_basketball_shoot~ tuşunu basılı tut. En iyi isabet için zıplamanın tepesinde bırak."
+  },
+  {
+    "table": "MAIN",
+    "key": "5AB2F5EC",
+    "text": "YÜKSEK"
+  },
+  {
+    "table": "MAIN",
+    "key": "5B107534",
+    "text": "Hareket kontrolleriyle yemek seç. Satın almak için ~m~~widget_store_buy~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5B8A63C4",
+    "text": "Sonraki istasyona atlamak için ~m~~widget_train_next_station~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5BB97392",
+    "text": "Park et, ~m~~widget_vehicle_bomb~ tuşuna dokunarak bombayı kur ve KAÇ!"
+  },
+  {
+    "table": "MAIN",
+    "key": "5BD14872",
+    "text": "ROCKSTAR GAMES HESABINDAN ÇIK"
+  },
+  {
+    "table": "MAIN",
+    "key": "5C7F1737",
+    "text": "Uçak ve helikopteri sola yatırmak veya döndürmek için alternatif kontrol."
+  },
+  {
+    "table": "MAIN",
+    "key": "5D00504D",
+    "text": "HARİTAYI GÖRMEK İÇİN DOKUN"
+  },
+  {
+    "table": "MAIN",
+    "key": "5D34568B",
+    "text": "Ateş etmek için ~m~~widget_vc_shoot~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5D639645",
+    "text": "Çıkış"
+  },
+  {
+    "table": "MAIN",
+    "key": "5D7B5059",
+    "text": "$20'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5D8E4BC8",
+    "text": "Oyunu Kaydet"
+  },
+  {
+    "table": "MAIN",
+    "key": "5DC93472",
+    "text": "Keskin nişancı dürbünü için ~m~~widget_enter_targeting~ tuşuna bas. Yakınlaştırmak veya uzaklaştırmak için ~m~~widget_zoom_in~ ve ~m~~widget_zoom_out~ tuşlarını basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "5DDF31F5",
+    "text": "DÜŞÜK"
+  },
+  {
+    "table": "MAIN",
+    "key": "5E3FE3F2",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "5E443862",
+    "text": "Katie arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5E848423",
+    "text": "DÜŞÜK ARALIK ÜST DEĞERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "5E9DC46F",
+    "text": "Kadın satıcılığı görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5EC4D620",
+    "text": "HİDROLİKLERİ KİLİTLE"
+  },
+  {
+    "table": "MAIN",
+    "key": "5F9988DE",
+    "text": "Yakın dövüş saldırısı için ~m~~widget_explicit_punch~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "5F9DBCBE",
+    "text": "GELİŞMİŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "6020C432",
+    "text": "SAĞA YÖNEL"
+  },
+  {
+    "table": "MAIN",
+    "key": "61B6F544",
+    "text": "UYARLANMIŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "63067DAC",
+    "text": "FARE TEKERLEĞİ İLERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "63F3D359",
+    "text": "Kamera görünümünü değiştirmek için ~m~~widget_camera~ tuşunu kullan."
+  },
+  {
+    "table": "MAIN",
+    "key": "63FB85AD",
+    "text": "KAYDIRMA"
+  },
+  {
+    "table": "MAIN",
+    "key": "6416E961",
+    "text": "Olumlu yanıt için ~m~~widget_reply_yes~, olumsuz yanıt için ~m~~widget_reply_no~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "6439B166",
+    "text": "Silah dürbününü yakınlaştır."
+  },
+  {
+    "table": "MAIN",
+    "key": "644E466D",
+    "text": "Araçtan ateş etmek için ~m~~widget_vehicle_shoot_left~ veya ~m~~widget_vehicle_shoot_right~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "6544F889",
+    "text": "ZIPLA"
+  },
+  {
+    "table": "MAIN",
+    "key": "656967AF",
+    "text": "TUR"
+  },
+  {
+    "table": "MAIN",
+    "key": "656B6351",
+    "text": "Tuşlar üst üste biniyor. Devam etmek için düzeni düzelt."
+  },
+  {
+    "table": "MAIN",
+    "key": "658C2C5A",
+    "text": "Araçtan inmek için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "66DFB82C",
+    "text": "Bisiklette ağırlığını kaydırmak için ~m~~widget_ped_move_up~ ve ~m~~widget_ped_move_down~ tuşlarını basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "67026B9E",
+    "text": "Bisiklette ağırlığını kaydırmak için ekranın sol tarafında ileri ve geri dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "670D546B",
+    "text": "Su altında yüzmek için ~m~~widget_button_swim~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "67826991",
+    "text": "ARA SAHNE 1"
+  },
+  {
+    "table": "MAIN",
+    "key": "687D99DA",
+    "text": "HAYIR için ~m~~widget_reply_no~, EVET için ~m~~widget_reply_yes~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "68D59A69",
+    "text": "CİHAZ SEÇ"
+  },
+  {
+    "table": "MAIN",
+    "key": "691B6F14",
+    "text": "Hareket kontrolleriyle bölge seç. Devam etmek için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "6924B1AC",
+    "text": "Vinci veya helikopter vincini kaldır."
+  },
+  {
+    "table": "MAIN",
+    "key": "696003D4",
+    "text": "Tuş takımını kullanmak için ~m~~widget_mission_start~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "6A5326BC",
+    "text": "HATA AYIKLAMA KAMERASI"
+  },
+  {
+    "table": "MAIN",
+    "key": "6ADA85FD",
+    "text": "OTOMATİK KAYIT:"
+  },
+  {
+    "table": "MAIN",
+    "key": "6B8ABECA",
+    "text": "KAPALI"
+  },
+  {
+    "table": "MAIN",
+    "key": "6C098170",
+    "text": "$1'a atıştırmalık almak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "6CB30501",
+    "text": "SANATÇI"
+  },
+  {
+    "table": "MAIN",
+    "key": "6D3AA93C",
+    "text": "SONRAKİ İSTASYON"
+  },
+  {
+    "table": "MAIN",
+    "key": "6E1FD270",
+    "text": "Oyun dosyaları indiriliyor. Lütfen bekle."
+  },
+  {
+    "table": "MAIN",
+    "key": "6EEFB880",
+    "text": "Hızlı yüzmek için ekranın sağ tarafını basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "6F268BD1",
+    "text": "GÖRSEL EFEKTLER"
+  },
+  {
+    "table": "MAIN",
+    "key": "6F5AC3B9",
+    "text": "SAĞ FARE TUŞU"
+  },
+  {
+    "table": "MAIN",
+    "key": "6F80557B",
+    "text": "Polis görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "6FB8294A",
+    "text": "Oyundan Çık"
+  },
+  {
+    "table": "MAIN",
+    "key": "6FF385C7",
+    "text": "Güç çubuğu dolunca ~m~~widget_sprint~ tuşuna bas. Görünümü değiştirmek için ~m~~widget_camera~, çıkmak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "703F7FC2",
+    "text": "DEĞİŞTİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "703F80ED",
+    "text": "İleri yürü veya koş."
+  },
+  {
+    "table": "MAIN",
+    "key": "71536758",
+    "text": "Taksi görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "715B99A7",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $100,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "7227E010",
+    "text": "BOŞ BULUT KAYDI"
+  },
+  {
+    "table": "MAIN",
+    "key": "72649413",
+    "text": "GAZ VER"
+  },
+  {
+    "table": "MAIN",
+    "key": "72B979CA",
+    "text": "Kaydet"
+  },
+  {
+    "table": "MAIN",
+    "key": "72F54129",
+    "text": "Depolama cihazı seçmedin. Devam edebilirsin ancak ilerlemen otomatik kaydedilmez."
+  },
+  {
+    "table": "MAIN",
+    "key": "73165840",
+    "text": "İŞARET KOY"
+  },
+  {
+    "table": "MAIN",
+    "key": "73F7C215",
+    "text": "Kaydı Sil"
+  },
+  {
+    "table": "MAIN",
+    "key": "74059DDA",
+    "text": "GÖREVE ATLA"
+  },
+  {
+    "table": "MAIN",
+    "key": "7410FDEA",
+    "text": "Keskin nişancı dürbünü için ~m~~widget_enter_targeting~ tuşuna dokun. İki parmağını ayırarak yakınlaştır, birleştirerek uzaklaştır."
+  },
+  {
+    "table": "MAIN",
+    "key": "7512B031",
+    "text": "$1'a içecek almak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "7596F641",
+    "text": "KLAVYE KONTROLLERİNİ DEĞİŞTİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "75A553FB",
+    "text": "YAĞMURLU HAVA"
+  },
+  {
+    "table": "MAIN",
+    "key": "776A97A0",
+    "text": "Hareket kontrolleriyle silah seç. Önizleme için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "782027F4",
+    "text": "ORTA FARE TUŞU"
+  },
+  {
+    "table": "MAIN",
+    "key": "78D04692",
+    "text": "Kart çek: ~m~~widget_black_jack_hit~. Kal: ~m~~widget_black_jack_stand~. İkiye katla: ~m~~widget_black_jack_double~. Çık: ~m~~widget_minigame_cancel~."
+  },
+  {
+    "table": "MAIN",
+    "key": "78EDD58C",
+    "text": "$1'a içecek almak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "79C65BDC",
+    "text": "Hareket kontrolleriyle bir tuş seç, ardından ~m~~widget_explicit_accept~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "79E24DC3",
+    "text": "SOL FARE TUŞU"
+  },
+  {
+    "table": "MAIN",
+    "key": "7A0A4358",
+    "text": "Sinematik kamera türünü değiştirmek için ~m~~widget_camera~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "7A4F443E",
+    "text": "Çömel ve gizlenme moduna geç."
+  },
+  {
+    "table": "MAIN",
+    "key": "7BD8AF91",
+    "text": "KUMANDA X HASSASİYETİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "7C561DA0",
+    "text": "GÖREV BAŞARISIZ"
+  },
+  {
+    "table": "MAIN",
+    "key": "7C7BA851",
+    "text": "Dambılları kaldırmak için ~m~~widget_tap_meter_button~ tuşuna veya enerji çubuğu işaretli alandayken çubuğa dokun. Kasların gelişir. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "7C9099D3",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $10,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "7CB1A58D",
+    "text": "İptal"
+  },
+  {
+    "table": "MAIN",
+    "key": "7D228027",
+    "text": "Daha hızlı koş veya yüz."
+  },
+  {
+    "table": "MAIN",
+    "key": "7D41A141",
+    "text": "Olumlu yanıt için ~m~~widget_reply_yes~, olumsuz yanıt için ~m~~widget_reply_no~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "7DA7FE09",
+    "text": "Saklamak için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "7DAED173",
+    "text": "SEÇ"
+  },
+  {
+    "table": "MAIN",
+    "key": "7DF29A4B",
+    "text": "Yakın dövüş saldırısı için ~m~~widget_explicit_punch~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "7DF342EC",
+    "text": "İptal"
+  },
+  {
+    "table": "MAIN",
+    "key": "7F40B0C8",
+    "text": "ARAÇ YANSIMALARI"
+  },
+  {
+    "table": "MAIN",
+    "key": "7F9CF76F",
+    "text": "Öpmek için ~m~~widget_kiss~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "80471499",
+    "text": "Uçağın ikincil silahını ateşler."
+  },
+  {
+    "table": "MAIN",
+    "key": "810CBE2F",
+    "text": "ANALOG"
+  },
+  {
+    "table": "MAIN",
+    "key": "8128B7F3",
+    "text": "HAYIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "814362D5",
+    "text": "Uçuş satın almak için ~m~~widget_gambling_continue~, ayrılmak için ~m~~widget_gambling_quit~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "81C8D563",
+    "text": "Özel dans için ~m~~widget_minigame_start~ tuşuna bas. Ücret: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "821CE084",
+    "text": "Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Devam etmek için ~m~~widget_gambling_continue~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "826D4295",
+    "text": "Hile etkinleştirilen oyunlarda başarımlar açılamaz."
+  },
+  {
+    "table": "MAIN",
+    "key": "833B29FB",
+    "text": "Hediyeyi vermek için ~m~~widget_gift~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "835DF519",
+    "text": "Otomatik kayda devam edilemiyor. Oyun verisi bozuk."
+  },
+  {
+    "table": "MAIN",
+    "key": "8439C98A",
+    "text": "BOYA DESENİ 2"
+  },
+  {
+    "table": "MAIN",
+    "key": "8478519E",
+    "text": "FARE X HASSASİYETİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "859B921B",
+    "text": "KONUMSAL SES"
+  },
+  {
+    "table": "MAIN",
+    "key": "872AD080",
+    "text": "Lowrider hidroliklerini kilitle."
+  },
+  {
+    "table": "MAIN",
+    "key": "889EFBD8",
+    "text": "BULUT KULLANILAMIYOR"
+  },
+  {
+    "table": "MAIN",
+    "key": "89436107",
+    "text": "İSTATİSTİKLERİ GÖR"
+  },
+  {
+    "table": "MAIN",
+    "key": "898C08BD",
+    "text": "GÖREVE ATLA 2"
+  },
+  {
+    "table": "MAIN",
+    "key": "8A37D04A",
+    "text": "Kamerayı oyuncunun arkasına çevir."
+  },
+  {
+    "table": "MAIN",
+    "key": "8A90766C",
+    "text": "Yıkım topunu kaldırmak için ~m~~widget_crane_up~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "8AD2963E",
+    "text": "ÇÖMEL"
+  },
+  {
+    "table": "MAIN",
+    "key": "8C34D0AC",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "8CC6DEEA",
+    "text": "DOKUNMA"
+  },
+  {
+    "table": "MAIN",
+    "key": "8CD71EE3",
+    "text": "Pedal çevirmek için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "8D5A1453",
+    "text": "Telefonu yanıtla, silah türünü değiştir veya mülk satın al."
+  },
+  {
+    "table": "MAIN",
+    "key": "8D8A558F",
+    "text": "Araçtan inmek için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "8E2EA51E",
+    "text": "HIZLI KOŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "8E9C9CAB",
+    "text": "Vinç mıknatısını bırakır."
+  },
+  {
+    "table": "MAIN",
+    "key": "8F09E900",
+    "text": "Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "8F64EDA2",
+    "text": "Seçeneklere erişmek için ~m~~widget_radar~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "8FB89468",
+    "text": "KLASİK"
+  },
+  {
+    "table": "MAIN",
+    "key": "9055DFB4",
+    "text": "Kadın satıcılığı görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "905F3D82",
+    "text": "ARAÇ YAN GÖREVLERİ / DİĞER"
+  },
+  {
+    "table": "MAIN",
+    "key": "90863EE2",
+    "text": "Koşmaya başlamak için hareket kontrollerini saat yönünde veya tersine hızlıca döndür."
+  },
+  {
+    "table": "MAIN",
+    "key": "90B57E96",
+    "text": "HAYIR için ~m~~widget_reply_no~, EVET için ~m~~widget_reply_yes~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "90D44556",
+    "text": "Oyun Yükle"
+  },
+  {
+    "table": "MAIN",
+    "key": "90EC2ABC",
+    "text": "Su altına dalmak için ~m~~widget_button_dive~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "913C768E",
+    "text": "YOĞUN"
+  },
+  {
+    "table": "MAIN",
+    "key": "915A6C05",
+    "text": "Hareket kontrolleriyle saç modeli seç. Önizleme için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "918E70B9",
+    "text": "Yeterli paran yok!"
+  },
+  {
+    "table": "MAIN",
+    "key": "91B3E3A7",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "91B5B6AD",
+    "text": "DOKUNMATİK DÜZEN"
+  },
+  {
+    "table": "MAIN",
+    "key": "91CDA8CB",
+    "text": "KULLANIM VERİLERİNİ GÖNDER"
+  },
+  {
+    "table": "MAIN",
+    "key": "91F8A0EA",
+    "text": "Dokunmatik düzeni seç."
+  },
+  {
+    "table": "MAIN",
+    "key": "9236B6DD",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "929EF8FF",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "92F3C0CF",
+    "text": "Seviyeyi değiştirmek için ~m~~widget_gym_easier~ ve ~m~~widget_gym_harder~ tuşlarına bas. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "931D0B7E",
+    "text": "Mıknatısı indirmek için ~m~~widget_crane_down~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "932CE10B",
+    "text": "Ateş et, yakın dövüş yap, dal veya paraşüt aç."
+  },
+  {
+    "table": "MAIN",
+    "key": "93516CF0",
+    "text": "~w~Kendi müziklerin için ~g~GTASA~w~ adlı bir çalma listesi oluştur ve cihazını eşitle. Müziklerin özel radyo istasyonunda görünür."
+  },
+  {
+    "table": "MAIN",
+    "key": "94017EC5",
+    "text": "GÖRÜŞ MESAFESİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "9435E01E",
+    "text": "Ses Ayarları"
+  },
+  {
+    "table": "MAIN",
+    "key": "94412512",
+    "text": "Önceki silaha geç."
+  },
+  {
+    "table": "MAIN",
+    "key": "945B7640",
+    "text": "Yük treni görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "952FE1ED",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "9572E304",
+    "text": "Uçuşun sonuna atlamak için ~m~~widget_skip_cutscene~, uçaktan atlamak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "95F33CE6",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "96333F3B",
+    "text": "İstatistikleri görmek için ~m~~widget_player_info~ tuşunu basılı tut. Değişen istatistikler ekranın sol üstünde görünür."
+  },
+  {
+    "table": "MAIN",
+    "key": "96481DF3",
+    "text": "FPS / KONUM GÖSTER"
+  },
+  {
+    "table": "MAIN",
+    "key": "964D0434",
+    "text": "CİHAZ KULLANILAMIYOR"
+  },
+  {
+    "table": "MAIN",
+    "key": "96E3B4A0",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $1,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "9735945F",
+    "text": "ÖNCEKİ İSTASYON"
+  },
+  {
+    "table": "MAIN",
+    "key": "973746F2",
+    "text": "Fotoğrafını çektirmek için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "9787ADEA",
+    "text": "Aracı sola yönlendir."
+  },
+  {
+    "table": "MAIN",
+    "key": "97D268C0",
+    "text": "BAŞLAT"
+  },
+  {
+    "table": "MAIN",
+    "key": "9834B678",
+    "text": "GÖLGELER"
+  },
+  {
+    "table": "MAIN",
+    "key": "98EED520",
+    "text": "Bisiklete binmek için ~m~~widget_explicit_bicycle~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "98FBC8EA",
+    "text": "ÇELİK YELEK"
+  },
+  {
+    "table": "MAIN",
+    "key": "9964F68C",
+    "text": "Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "9A2FF951",
+    "text": "SOLA YÖNEL"
+  },
+  {
+    "table": "MAIN",
+    "key": "9A886D3F",
+    "text": "San Andreas fazla bellek kullanır. En iyi sonuç için oynamadan önce cihazını yeniden başlat."
+  },
+  {
+    "table": "MAIN",
+    "key": "9AAAF42F",
+    "text": "Bilardo oynamak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "9AC16C4C",
+    "text": "Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "9AFB5092",
+    "text": "KORECE"
+  },
+  {
+    "table": "MAIN",
+    "key": "9B65B1ED",
+    "text": "Seçeneklere erişmek için radara dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "9BAB32D7",
+    "text": "GÜNEŞLİ HAVA"
+  },
+  {
+    "table": "MAIN",
+    "key": "9BCFE8AC",
+    "text": "ARAÇ KAMERA YÜKSEKLİĞİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "9C67E911",
+    "text": "Su altında yüzmek için ekranın sağ tarafını basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "9CFD0EDA",
+    "text": "Devam etmek için ~m~~widget_explicit_accept~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "9DBA3CE0",
+    "text": "HARİTAYI GÖRMEK İÇİN DOKUN"
+  },
+  {
+    "table": "MAIN",
+    "key": "9DBA6BF1",
+    "text": "Silah değiştirmek için ~m~~widget_explicit_prev_weapon~ veya ~m~~widget_explicit_next_weapon~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "9DF76939",
+    "text": "Kamerayı uzaklaştır."
+  },
+  {
+    "table": "MAIN",
+    "key": "9E31E1C1",
+    "text": "Sola yürü veya koş."
+  },
+  {
+    "table": "MAIN",
+    "key": "9F072B55",
+    "text": "Fotoğraf çekmek için ~m~~widget_vc_shoot~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "9F94A3F1",
+    "text": "~m~~widget_ped_move_up~ ve ~m~~widget_ped_move_down~ tuşlarına ritimle bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A065C4F3",
+    "text": "ORTA"
+  },
+  {
+    "table": "MAIN",
+    "key": "A0A888EA",
+    "text": "Satın almak için ~m~~widget_store_buy~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "A0A9C753",
+    "text": "Satın alınabilecek araçları görmek için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A11A8389",
+    "text": "Hedefteki Grove Street üyesini yok say veya çeteye yerinde beklemesini söyle."
+  },
+  {
+    "table": "MAIN",
+    "key": "A12FC587",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $10,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "A1F46AF2",
+    "text": "Devam Et"
+  },
+  {
+    "table": "MAIN",
+    "key": "A2939C6B",
+    "text": "ÖDEME:"
+  },
+  {
+    "table": "MAIN",
+    "key": "A3419777",
+    "text": "UÇUŞTA ALÇAL"
+  },
+  {
+    "table": "MAIN",
+    "key": "A34C45DC",
+    "text": "PUAN"
+  },
+  {
+    "table": "MAIN",
+    "key": "A35B4DFE",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "A40FD2C4",
+    "text": "Silahı almak için ~m~~widget_swap_weapons~ tuşuna bas. Aynı türdeki mevcut silahının yerini alır."
+  },
+  {
+    "table": "MAIN",
+    "key": "A43689E7",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "A4A4D37C",
+    "text": "Geri"
+  },
+  {
+    "table": "MAIN",
+    "key": "A5085C1F",
+    "text": "Vücut bölgesini seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "A593B662",
+    "text": "AĞIR ÇEKİM"
+  },
+  {
+    "table": "MAIN",
+    "key": "A5F17D7F",
+    "text": "Renk seçmek için dokun. Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "A5FCCDA0",
+    "text": "ANALOG BİSİKLET KONTROLÜ, bisiklet ve motosikletlerde analog kontrol kullanmanı sağlar."
+  },
+  {
+    "table": "MAIN",
+    "key": "A621ED0C",
+    "text": "Silah değiştirmek için ekranın sağ üst köşesindeki silah simgesine bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A6BE0580",
+    "text": "Devam etmek için kırmızı işarete yürü. Hızlı koşmak için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "A77F779E",
+    "text": "Silah türünü seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "A78FD157",
+    "text": "At yarışı makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A89110B0",
+    "text": "$20 saçmak için ~m~~widget_store_buy~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A8A3BB9F",
+    "text": "Telefon konuşmasını atlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A8AA0968",
+    "text": "Vince binmek için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A91872D5",
+    "text": "Hırsızlık görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "A9D6EB89",
+    "text": "GERİ GİT"
+  },
+  {
+    "table": "MAIN",
+    "key": "A9DF5B29",
+    "text": "Makineyi kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "AA50202C",
+    "text": "DEVAM ETMEK İÇİN DOKUN"
+  },
+  {
+    "table": "MAIN",
+    "key": "AADF962D",
+    "text": "Helena arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "ABDF132B",
+    "text": "NİŞAN AL / BIRAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "AD7ACAAC",
+    "text": "SAĞA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "AE199150",
+    "text": "Seviye seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "AE66D54D",
+    "text": "BAKIŞI TERS ÇEVİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "AEF5919A",
+    "text": "Sokaktaki insanlar Carl'la konuşur. Olumsuz yanıt için ~m~~widget_reply_no~, olumlu yanıt için ~m~~widget_reply_yes~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "AF70F928",
+    "text": "HIZLI KOŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "AF847031",
+    "text": "Profil değiştirmek üzeresin. Kaydedilmemiş ilerlemen kaybolur. Mevcut oyuna devam etmek için aynı profille giriş yapmalısın."
+  },
+  {
+    "table": "MAIN",
+    "key": "AFA9184B",
+    "text": "Kart çek: ~m~~widget_black_jack_hit~. Kal: ~m~~widget_black_jack_stand~. İkiye katla: ~m~~widget_black_jack_double~. Böl: ~m~~widget_black_jack_split~. Çık: ~m~~widget_minigame_cancel~."
+  },
+  {
+    "table": "MAIN",
+    "key": "AFC10BBB",
+    "text": "Önceki radyo istasyonuna geç."
+  },
+  {
+    "table": "MAIN",
+    "key": "B093A543",
+    "text": "Polis görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "B0CDDAC8",
+    "text": "ARKAYA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "B102AA92",
+    "text": "ALTERNATİF UÇUŞ SOLA DÖNÜŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "B13669DC",
+    "text": "Yayanken Ryder kavgaya fazla dalarsa ~m~~widget_gang_follow~ tuşuyla onu yanına çağır."
+  },
+  {
+    "table": "MAIN",
+    "key": "B18A21F1",
+    "text": "Özel dans için ~m~~widget_minigame_start~ tuşuna bas. Ücret: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "B1B13829",
+    "text": "Vinçten çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "B271761B",
+    "text": "Araçta gaz ver."
+  },
+  {
+    "table": "MAIN",
+    "key": "B2B2ED47",
+    "text": "ROCKSTAR GAMES HESABINA GİRİŞ YAP"
+  },
+  {
+    "table": "MAIN",
+    "key": "B45DCC9E",
+    "text": "ARAÇ HİLESİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "B461FBED",
+    "text": "SAĞA GİT"
+  },
+  {
+    "table": "MAIN",
+    "key": "B48643C0",
+    "text": "VİNCİ KALDIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "B4DBA090",
+    "text": "Hızlı yüzmek için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "B51CB202",
+    "text": "Uçağın burnunu yukarı kaldırmak için alternatif kontrol."
+  },
+  {
+    "table": "MAIN",
+    "key": "B52DBB29",
+    "text": "Ayrılmak için ~m~~widget_gambling_quit~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "B66F6E8B",
+    "text": "TELEFON / SİLAH DEĞİŞTİR / DİĞER"
+  },
+  {
+    "table": "MAIN",
+    "key": "B6B0706D",
+    "text": "Hareket kontrolleriyle vücut bölgesi seç. Kaldırmak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "B6DA3AFA",
+    "text": "Hava aracında ve jetpack ile yükselir."
+  },
+  {
+    "table": "MAIN",
+    "key": "B6DC2596",
+    "text": "Çıkmak için ~m~~widget_rhythm_exit~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "B705ACDE",
+    "text": "Araç seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "B7067600",
+    "text": "Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "B7279D57",
+    "text": "Helena arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "B7EBA50D",
+    "text": "PEMBE ARABALAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "B801B2C8",
+    "text": "Oyuncunun araç istatistiklerini gösterir."
+  },
+  {
+    "table": "MAIN",
+    "key": "B8F75762",
+    "text": "DAHA FAZLA SİLAH"
+  },
+  {
+    "table": "MAIN",
+    "key": "B99B430A",
+    "text": "UÇUŞ BİRİNCİL SİLAHI"
+  },
+  {
+    "table": "MAIN",
+    "key": "BA08AB67",
+    "text": "Çıkmak için ~m~~widget_rhythm_exit~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "BAD10D63",
+    "text": "Vinçten çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "BBB7ADA6",
+    "text": "ANALOG BİSİKLET KONTROLÜ"
+  },
+  {
+    "table": "MAIN",
+    "key": "BCE7FCE1",
+    "text": "Ardından ~m~~widget_attack~ ile ateş et."
+  },
+  {
+    "table": "MAIN",
+    "key": "BD758B81",
+    "text": "Yemek seçmek için dokun. Satın almak için ~m~~widget_store_buy~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "BDEFE6CC",
+    "text": "KONUM"
+  },
+  {
+    "table": "MAIN",
+    "key": "BEB4F006",
+    "text": "Oyunu Kaydet"
+  },
+  {
+    "table": "MAIN",
+    "key": "BEDAD6A2",
+    "text": "Profilinden çıkış yaptın. Aynı profille giriş yap veya farklı bir profil kullanmak için oyundan çık."
+  },
+  {
+    "table": "MAIN",
+    "key": "BF6C76D1",
+    "text": "Kamerayı aracın sağ tarafına çevirir."
+  },
+  {
+    "table": "MAIN",
+    "key": "BF96645B",
+    "text": "YÜKSEK"
+  },
+  {
+    "table": "MAIN",
+    "key": "BF9A937B",
+    "text": "ARANMA SEVİYESİNİ 2 ARTIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "BFA4F004",
+    "text": "Pedal çevirmek için ekranın sol alt köşesini basılı tut ve parmağını daire şeklinde döndür. Seviyeyi ~m~~widget_gym_easier~ ve ~m~~widget_gym_harder~ ile değiştir. Çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "BFD922A0",
+    "text": "ALTERNATİF UÇUŞ AŞAĞI YÖNELME"
+  },
+  {
+    "table": "MAIN",
+    "key": "C020ADC1",
+    "text": "Barbara arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C0241BFB",
+    "text": "Çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C0AC68E0",
+    "text": "$50'lık kumar makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C0BCCE7C",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $10,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "C0E868BC",
+    "text": "GÖSTERGE MODU"
+  },
+  {
+    "table": "MAIN",
+    "key": "C0EC959B",
+    "text": "PATLAYAN ARABALAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "C0F951CC",
+    "text": "Taksi görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C1B740FB",
+    "text": "Hareket kontrolleriyle dövme seç. Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C1C4162F",
+    "text": "Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C1DD0A6C",
+    "text": "Hava aracında ve jetpack ile alçalır."
+  },
+  {
+    "table": "MAIN",
+    "key": "C20506CF",
+    "text": "Video poker oynamak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C21B8294",
+    "text": "Uçak ve helikopteri sağa yatırmak veya döndürmek için alternatif kontrol."
+  },
+  {
+    "table": "MAIN",
+    "key": "C2C26126",
+    "text": "Devam Et"
+  },
+  {
+    "table": "MAIN",
+    "key": "C366CB7B",
+    "text": "GÖREV BAŞLAT / İPTAL ET"
+  },
+  {
+    "table": "MAIN",
+    "key": "C375466B",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $10,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "C38BCC39",
+    "text": "Basketbol oynamak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C3DC9006",
+    "text": "Su altına dalmak için ekranın sol alt köşesine iki kez dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "C4500C2B",
+    "text": "DİREKSİYON YÖNTEMİ SEÇ"
+  },
+  {
+    "table": "MAIN",
+    "key": "C494B793",
+    "text": "Sonraki istasyona atlamak için ~m~~widget_train_next_station~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C4DB3AEE",
+    "text": "Hareket kontrolleriyle vücut bölgesi seç. Kaldırmak için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "C4EBDA8B",
+    "text": "ÇETEYİ YOK SAY / BEKLET"
+  },
+  {
+    "table": "MAIN",
+    "key": "C547ACF8",
+    "text": "Mıknatısı yaklaştırmak veya uzaklaştırmak için ~m~~widget_ped_move_up~ ve ~m~~widget_ped_move_down~ tuşlarını basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "C551AEDA",
+    "text": "ZIPLA"
+  },
+  {
+    "table": "MAIN",
+    "key": "C5621ECC",
+    "text": "KALAN SÜRE"
+  },
+  {
+    "table": "MAIN",
+    "key": "C576468D",
+    "text": "Aracı sağa yönlendir."
+  },
+  {
+    "table": "MAIN",
+    "key": "C6D45FE9",
+    "text": "GTA San Andreas'ı beğendiysen değerlendirmek için bir dakikanı ayır. Desteğin için teşekkürler!"
+  },
+  {
+    "table": "MAIN",
+    "key": "C7724E19",
+    "text": "~m~~widget_roulette_up~ ~m~~widget_roulette_left~ ~m~~widget_roulette_down~ ~m~~widget_roulette_right~ ile alan seç. Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C78DD599",
+    "text": "DÜŞÜK ARALIK ÜST YÜZDESİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "C79495D5",
+    "text": "Hırsızlık görevlerini başlatmak için ~m~~widget_mission_start_vigilante~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "C7AB0E4D",
+    "text": "Oyuncu"
+  },
+  {
+    "table": "MAIN",
+    "key": "C7CAF35D",
+    "text": "Oyun"
+  },
+  {
+    "table": "MAIN",
+    "key": "C8427F5B",
+    "text": "VARSAYILANLARA DÖN"
+  },
+  {
+    "table": "MAIN",
+    "key": "C86B4647",
+    "text": "Kamerayı aracın arkasına çevirir."
+  },
+  {
+    "table": "MAIN",
+    "key": "C89DA3ED",
+    "text": "YAVAŞ ZAMAN"
+  },
+  {
+    "table": "MAIN",
+    "key": "C8C8BEF5",
+    "text": "TUŞLAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "C8FB1ADA",
+    "text": "Ağırlık seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "C980156C",
+    "text": "STANDART"
+  },
+  {
+    "table": "MAIN",
+    "key": "CA1F331E",
+    "text": "SİNEMATİK KAMERA"
+  },
+  {
+    "table": "MAIN",
+    "key": "CABBF9EC",
+    "text": "Arabayı gemiden kaldır ve yere bırakmak için ~m~~widget_drop_crane~ tuşuna dokun. Çıkmak için ~m~~widget_mission_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "CABEB2B4",
+    "text": "Basketbola devam etmek için sahaya dön veya çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CAC8F3F8",
+    "text": "SOLA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "CB7275C1",
+    "text": "DEĞİŞTİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "CBEFD8F1",
+    "text": "İLERLEME KAYBI"
+  },
+  {
+    "table": "MAIN",
+    "key": "CBFB697A",
+    "text": "Atama yapmak için klavye veya fare tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CC87B55D",
+    "text": "Silah seçmek için dokun. Önizleme için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "CCC6CC6C",
+    "text": "Arabayı gemiden kaldır ve yere bırakmak için ~m~~widget_drop_crane~ tuşuna bas. Çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CD0F939E",
+    "text": "Saklamak için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CD50440B",
+    "text": "Mücadele modunu başlatmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CDB39E2D",
+    "text": "Egzersize başlamak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CDD63DF5",
+    "text": "Vince binmek için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CE29D8C2",
+    "text": "İptal"
+  },
+  {
+    "table": "MAIN",
+    "key": "CE4DA91B",
+    "text": "Uçuş satın almak için ~m~~widget_gambling_continue~, ayrılmak için ~m~~widget_gambling_quit~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "CE5A7430",
+    "text": "Uçuşun sonuna atlamak için ~m~~widget_skip_cutscene~, uçaktan atlamak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "CEEFA197",
+    "text": "Emeği Geçenler"
+  },
+  {
+    "table": "MAIN",
+    "key": "CF06825E",
+    "text": "Daha keskin dönüşler için el frenini kullan."
+  },
+  {
+    "table": "MAIN",
+    "key": "CFA57AEC",
+    "text": "KAYDIRMA"
+  },
+  {
+    "table": "MAIN",
+    "key": "CFF067F4",
+    "text": "DAHA FAZLA SİLAH"
+  },
+  {
+    "table": "MAIN",
+    "key": "D1707706",
+    "text": "Araçtan in veya atla."
+  },
+  {
+    "table": "MAIN",
+    "key": "D20590F4",
+    "text": "TAM DİREKSİYON"
+  },
+  {
+    "table": "MAIN",
+    "key": "D2E05562",
+    "text": "Kamera görünümünü değiştirmek için ~m~~widget_camera~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "D2E413A2",
+    "text": "SİLAH DÜRBÜNÜNÜ UZAKLAŞTIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "D2F64DE9",
+    "text": "Bölge seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "D2F968E4",
+    "text": "Video poker oynamak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "D32B63F8",
+    "text": "UÇUŞTA YÜKSEL"
+  },
+  {
+    "table": "MAIN",
+    "key": "D331B971",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "D3392D6B",
+    "text": "GAZ VER"
+  },
+  {
+    "table": "MAIN",
+    "key": "D3839743",
+    "text": "Fotoğraf çekmek için ~m~~widget_vc_shoot~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "D3C5675A",
+    "text": "HIZLI KOŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "D3E3346B",
+    "text": "HAFİF"
+  },
+  {
+    "table": "MAIN",
+    "key": "D44B754A",
+    "text": "SÜRE"
+  },
+  {
+    "table": "MAIN",
+    "key": "D45C7D68",
+    "text": "BOŞ KAYIT"
+  },
+  {
+    "table": "MAIN",
+    "key": "D4A11FCC",
+    "text": "EL FRENİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "D5690252",
+    "text": "ALTERNATİF UÇUŞ YUKARI YÖNELME"
+  },
+  {
+    "table": "MAIN",
+    "key": "D5DA725C",
+    "text": "Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "D628F511",
+    "text": "Yirmi bir oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "D654DAC8",
+    "text": "DÜŞÜK"
+  },
+  {
+    "table": "MAIN",
+    "key": "D6FD73DE",
+    "text": "SİLAH HİLESİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "D709F218",
+    "text": "Oyuncu"
+  },
+  {
+    "table": "MAIN",
+    "key": "D762F465",
+    "text": "DÜŞÜK"
+  },
+  {
+    "table": "MAIN",
+    "key": "D8ADAA82",
+    "text": "EKRAN KAYDI"
+  },
+  {
+    "table": "MAIN",
+    "key": "D8AE28DD",
+    "text": "Kart çek: ~m~~widget_black_jack_hit~. Kal: ~m~~widget_black_jack_stand~. İkiye katla: ~m~~widget_black_jack_double~. Çık: ~m~~widget_minigame_cancel~."
+  },
+  {
+    "table": "MAIN",
+    "key": "D8C63B2D",
+    "text": "Sonraki radyo istasyonuna geç."
+  },
+  {
+    "table": "MAIN",
+    "key": "D9441EAE",
+    "text": "TİTREŞİM"
+  },
+  {
+    "table": "MAIN",
+    "key": "D9A7FF3D",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $100,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "DA599BA3",
+    "text": "Pedal çevirmek için ~m~~widget_thumb_circle~ tuşuna hızla bas. Seviyeyi ~m~~widget_gym_easier~ ve ~m~~widget_gym_harder~ ile değiştir. Çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "DA6E772A",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $1,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "DAB17E62",
+    "text": "GİRİŞ HATASI"
+  },
+  {
+    "table": "MAIN",
+    "key": "DAC61CED",
+    "text": "DOKUNMATİK DÜZEN SEÇ"
+  },
+  {
+    "table": "MAIN",
+    "key": "DACEAC30",
+    "text": "ÖLDÜRME"
+  },
+  {
+    "table": "MAIN",
+    "key": "DBE9C1F8",
+    "text": "OYUN VERİSİ İNDİRME HATASI"
+  },
+  {
+    "table": "MAIN",
+    "key": "DC01F371",
+    "text": "ROCKSTAR MAĞAZASI"
+  },
+  {
+    "table": "MAIN",
+    "key": "DC027F99",
+    "text": "KONTROL NOKTASI KAYDI"
+  },
+  {
+    "table": "MAIN",
+    "key": "DC5C9DB9",
+    "text": "Mıknatısı kaldırmak için ~m~~widget_crane_up~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "DC8373B6",
+    "text": "SÜRE"
+  },
+  {
+    "table": "MAIN",
+    "key": "DCC9791C",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "DCE4769E",
+    "text": "Aracın nitrosunu açmak için ~m~~widget_nitro~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "DD1753E7",
+    "text": "KORNA"
+  },
+  {
+    "table": "MAIN",
+    "key": "DDD8A6BB",
+    "text": "Barbara arıyor. Telefonu yanıtlamak için ~m~~widget_phone~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "DE366332",
+    "text": "VİNCİ İNDİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "DEA62EB8",
+    "text": "Kıyafet mağazasını seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "DECBB33B",
+    "text": "Carl'ı hareket ettirmek için ~m~~widget_ped_move~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "DF7917ED",
+    "text": "Büyük indirmeler için cihaz şarjda olmalı.~N~ İndirmeye devam etmek istiyor musun?"
+  },
+  {
+    "table": "MAIN",
+    "key": "DF867B7E",
+    "text": "Oyunu Başlat"
+  },
+  {
+    "table": "MAIN",
+    "key": "DFA57FA2",
+    "text": "Hareket kontrolleriyle kıyafet seç. Görmek için ~m~~widget_store_accept~, ayrılmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E0809D7C",
+    "text": "Geri yürü veya koş."
+  },
+  {
+    "table": "MAIN",
+    "key": "E0B69116",
+    "text": "Dil"
+  },
+  {
+    "table": "MAIN",
+    "key": "E0BFB834",
+    "text": "KONTROL DÜZENİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "E0CE0383",
+    "text": "veya"
+  },
+  {
+    "table": "MAIN",
+    "key": "E0DFD4E9",
+    "text": "Aracın nitrosunu açmak için ~m~~widget_nitro~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E15C96CA",
+    "text": "DURAKLAT"
+  },
+  {
+    "table": "MAIN",
+    "key": "E1925465",
+    "text": "Direksiyon yöntemini Seçenekler menüsündeki Kontrolleri Düzenle bölümünden istediğin zaman değiştirebilirsin."
+  },
+  {
+    "table": "MAIN",
+    "key": "E1E48436",
+    "text": "Rulet oynamak için ~m~~widget_mission_start~ tuşuna bas. En yüksek bahis: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "E24D7E3D",
+    "text": "ARACA BİN / ARAÇTAN İN"
+  },
+  {
+    "table": "MAIN",
+    "key": "E298FD81",
+    "text": "BOŞ BULUT KAYDI"
+  },
+  {
+    "table": "MAIN",
+    "key": "E2F40C70",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100,000"
+  },
+  {
+    "table": "MAIN",
+    "key": "E3461584",
+    "text": "Sonraki silaha geç."
+  },
+  {
+    "table": "MAIN",
+    "key": "E426B3A3",
+    "text": "Radyo istasyonunu değiştirmek için ekranın sol alt köşesini kaydır."
+  },
+  {
+    "table": "MAIN",
+    "key": "E42BD19D",
+    "text": "Araca bin ve araçtan in."
+  },
+  {
+    "table": "MAIN",
+    "key": "E4384694",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E4A3A832",
+    "text": "Türkçe"
+  },
+  {
+    "table": "MAIN",
+    "key": "E5A40308",
+    "text": "TUŞ KONUMUNU DEĞİŞTİR"
+  },
+  {
+    "table": "MAIN",
+    "key": "E5B1205F",
+    "text": "İŞ ARACI KONTROLLERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "E5B1C0BC",
+    "text": "Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E616FE7C",
+    "text": "Giymek için ~m~~widget_store_accept~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E6B4D331",
+    "text": "Kart çekmek için ~m~~widget_black_jack_hit~, kalmak için ~m~~widget_black_jack_stand~, çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E795758B",
+    "text": "Mülkü satın almak için ~m~~widget_purchase~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E7EBECA5",
+    "text": "SOLA BAK"
+  },
+  {
+    "table": "MAIN",
+    "key": "E8939367",
+    "text": "Öpmek için ~m~~widget_kiss~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E8F736BC",
+    "text": "At yarışı makinesini kullanmak için ~m~~widget_minigame_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E935F7A8",
+    "text": "Oyunu Başlat"
+  },
+  {
+    "table": "MAIN",
+    "key": "E95B8FA6",
+    "text": "Ayarlar"
+  },
+  {
+    "table": "MAIN",
+    "key": "E9DC350E",
+    "text": "Hareket kontrolleriyle gün seç. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "E9F5E831",
+    "text": "CİHAZ SEÇİLMEDİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "EA114346",
+    "text": "ARAÇ KONTROLLERİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "EA455D2B",
+    "text": "Yayanken Ryder kavgaya fazla dalarsa ~m~~widget_gang_follow~ tuşuyla onu yanına çağır."
+  },
+  {
+    "table": "MAIN",
+    "key": "EACB220F",
+    "text": "Dambılları kaldırmak için ~m~~widget_tap_meter_button~ tuşuna art arda bas. Bu, kaslarını geliştirir. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "EAF059AF",
+    "text": "Oyuncu istatistiklerini göster."
+  },
+  {
+    "table": "MAIN",
+    "key": "EAFF50E0",
+    "text": "TRAFİK MODU"
+  },
+  {
+    "table": "MAIN",
+    "key": "EBA4DF6C",
+    "text": "Kayıt başarısız!"
+  },
+  {
+    "table": "MAIN",
+    "key": "EC8A84AC",
+    "text": "UYARLANMIŞ"
+  },
+  {
+    "table": "MAIN",
+    "key": "ECAC0241",
+    "text": "BULUTLU HAVA"
+  },
+  {
+    "table": "MAIN",
+    "key": "ED19AC50",
+    "text": "Ateş etmek için ~m~~widget_vc_shoot~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "EDD09F7E",
+    "text": "Kamera görünümünü değiştirmek için ~m~~widget_camera~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "EDE2E0FB",
+    "text": "Mülkü satın almak için ~m~~widget_purchase~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "EE6AFF3B",
+    "text": "Vinci döndürmek için ~m~~widget_ped_move_left~ ve ~m~~widget_ped_move_right~ tuşlarını basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "EE773768",
+    "text": "Satın alınabilecek araçları görmek için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "EE8AA109",
+    "text": "Oyun"
+  },
+  {
+    "table": "MAIN",
+    "key": "EED87F47",
+    "text": "Aracı ekran tuşlarıyla kontrol et. Kontrolleri Düzenle menüsünde tuşların boyutunu ve konumunu değiştirebilirsin."
+  },
+  {
+    "table": "MAIN",
+    "key": "EEFCF239",
+    "text": "El freni için ~m~~widget_handbrake~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "EF265CA1",
+    "text": "SONRAKİ SİLAH"
+  },
+  {
+    "table": "MAIN",
+    "key": "EF34B624",
+    "text": "AÇIK"
+  },
+  {
+    "table": "MAIN",
+    "key": "F0123EAE",
+    "text": "Satın almak için ~m~~widget_store_buy~, geri dönmek için ~m~~widget_store_back~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "F02DE016",
+    "text": "Nitroyu etkinleştir."
+  },
+  {
+    "table": "MAIN",
+    "key": "F14324E9",
+    "text": "Çarkıfelek oynamak için ~m~~widget_minigame_start~ tuşuna bas. En yüksek bahis: $100"
+  },
+  {
+    "table": "MAIN",
+    "key": "F1804949",
+    "text": "KORNA"
+  },
+  {
+    "table": "MAIN",
+    "key": "F1A221EC",
+    "text": "Görünümü değiştirmek için ~m~~widget_camera~ üzerinde kaydır. Özel danstan çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "F1B711D4",
+    "text": "SALDIR"
+  },
+  {
+    "table": "MAIN",
+    "key": "F226ACF4",
+    "text": "Seçilen depolama cihazı kullanılamıyor. Bağlı bir cihaz seçilene kadar ilerlemen otomatik kaydedilmez."
+  },
+  {
+    "table": "MAIN",
+    "key": "F28BA8E1",
+    "text": "HEDEFE KİLİTLEN"
+  },
+  {
+    "table": "MAIN",
+    "key": "F33EF91C",
+    "text": "BOYA DESENİ 3"
+  },
+  {
+    "table": "MAIN",
+    "key": "F3727B65",
+    "text": "DÜŞÜK"
+  },
+  {
+    "table": "MAIN",
+    "key": "F37F6108",
+    "text": "FARE Y HASSASİYETİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "F38CFD62",
+    "text": "Alan seçmek için ekrana dokun. Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "F3EB68EE",
+    "text": "Hedefteki Grove Street üyesini çeteye al veya çeteye seni takip etmesini söyle."
+  },
+  {
+    "table": "MAIN",
+    "key": "F6CFE5F5",
+    "text": "$20 saçmak için ~m~~widget_store_buy~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "F6F5503F",
+    "text": "Çarkıfelek oynamak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "F722FD0A",
+    "text": "EL FRENİ"
+  },
+  {
+    "table": "MAIN",
+    "key": "F740240F",
+    "text": "Uçağın birincil silahını ateşler."
+  },
+  {
+    "table": "MAIN",
+    "key": "F75AFA6F",
+    "text": "Görüntü Ayarları"
+  },
+  {
+    "table": "MAIN",
+    "key": "F826BCA5",
+    "text": "Ayrılmak için ~m~~widget_gambling_quit~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "F8E2D0F6",
+    "text": "ÇELİK YELEK"
+  },
+  {
+    "table": "MAIN",
+    "key": "F969C1C8",
+    "text": "Hızlı yüzmek için ~m~~widget_button_swim~ tuşunu basılı tut."
+  },
+  {
+    "table": "MAIN",
+    "key": "F99BAC3D",
+    "text": "Vinci veya helikopter vincini indir."
+  },
+  {
+    "table": "MAIN",
+    "key": "F9BA079A",
+    "text": "Oyun Yükle"
+  },
+  {
+    "table": "MAIN",
+    "key": "F9E6FC32",
+    "text": "ARA SAHNE 2"
+  },
+  {
+    "table": "MAIN",
+    "key": "FA5D24C5",
+    "text": "Yan görevleri başlat veya bitir."
+  },
+  {
+    "table": "MAIN",
+    "key": "FAB08881",
+    "text": "TUŞLAR"
+  },
+  {
+    "table": "MAIN",
+    "key": "FB0483D5",
+    "text": "Sokaktaki insanlar Carl'la konuşur. Olumsuz yanıt için ~m~~widget_reply_no~, olumlu yanıt için ~m~~widget_reply_yes~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "FBC81414",
+    "text": "Yükseltme seçmek için dokun. Devam etmek için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "MAIN",
+    "key": "FC69C8AA",
+    "text": "Çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "FCDA70B8",
+    "text": "İptal"
+  },
+  {
+    "table": "MAIN",
+    "key": "FD30E0DC",
+    "text": "Düşmanlara ve dostlara kilitlen."
+  },
+  {
+    "table": "MAIN",
+    "key": "FE0405D1",
+    "text": "Su altına dalmak için ~m~~widget_button_dive~ tuşuna bas."
+  },
+  {
+    "table": "MAIN",
+    "key": "FE8B382B",
+    "text": "GÖREVE ATLA 1"
+  },
+  {
+    "table": "AMBULAE",
+    "key": "695FE63A",
+    "text": "KALAN SÜRE"
+  },
+  {
+    "table": "BCOU",
+    "key": "3038A1A6",
+    "text": "Sola veya sağa eşya atmak için ~m~~widget_vehicle_shoot_left~ ya da ~m~~widget_vehicle_shoot_right~ tuşuna bas. Son boşa attığın eşyayı üzerinden geçerek geri alabilirsin."
+  },
+  {
+    "table": "BCOU",
+    "key": "4F702DD8",
+    "text": "Sola veya sağa eşya atmak için ~m~~widget_vehicle_shoot_left~ ya da ~m~~widget_vehicle_shoot_right~ tuşuna bas. Son boşa attığın eşyayı üzerinden geçerek geri alabilirsin."
+  },
+  {
+    "table": "BCOU",
+    "key": "5CFC6067",
+    "text": "KALAN SÜRE"
+  },
+  {
+    "table": "BCOU",
+    "key": "AC84F413",
+    "text": "SÜRE"
+  },
+  {
+    "table": "BCRASH1",
+    "key": "1C0C92C1",
+    "text": "Fotoğraf makinesinden bakmak için ~m~~widget_enter_targeting~ tuşuna bas."
+  },
+  {
+    "table": "BCRASH1",
+    "key": "70C85300",
+    "text": "Fotoğraf makinesinden bakmak için ~m~~widget_enter_targeting~ tuşuna bas."
+  },
+  {
+    "table": "BCRASH1",
+    "key": "E9C102BA",
+    "text": "Fotoğraf makinesinde yakınlaştırmak için ~m~~widget_zoom_in~, uzaklaştırmak için ~m~~widget_zoom_out~ tuşunu kullan."
+  },
+  {
+    "table": "BLOOD",
+    "key": "705444D3",
+    "text": "SONUÇLAR"
+  },
+  {
+    "table": "BOAT",
+    "key": "14F4DF49",
+    "text": "Çıkış"
+  },
+  {
+    "table": "BOAT",
+    "key": "251ED096",
+    "text": "Her ~y~şamandıra~s~ çiftinin arasından geç. ~m~~widget_accelerate~ ile gaz ver; ~m~~widget_ped_move_left~ ve ~m~~widget_ped_move_right~ tuşlarıyla yönlendir."
+  },
+  {
+    "table": "BOAT",
+    "key": "4076B8D9",
+    "text": "~m~~widget_accelerate~ tuşunu basılı tutarak ilerle ve tekneyi paralel ~y~şamandıraların~s~ arasında durdur."
+  },
+  {
+    "table": "BOAT",
+    "key": "4BE107E3",
+    "text": "Her ~y~şamandıra~s~ çiftinin arasından geç. Sağ alt köşeye basarak gaz ver; hareket kontrolleriyle sağa ve sola yönel."
+  },
+  {
+    "table": "BOAT",
+    "key": "56A84944",
+    "text": "Devam Et"
+  },
+  {
+    "table": "BOAT",
+    "key": "861CE483",
+    "text": "SÜRE"
+  },
+  {
+    "table": "BOAT",
+    "key": "8A904AEA",
+    "text": "BAŞLAT"
+  },
+  {
+    "table": "BOAT",
+    "key": "98BC44AB",
+    "text": "Testten çıkmak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "BOAT",
+    "key": "9DE9954D",
+    "text": "~s~Daha keskin dönmek için gaz verirken ~m~~widget_handbrake~ tuşunu basılı tut."
+  },
+  {
+    "table": "BOAT",
+    "key": "B6C4C68E",
+    "text": "Geri gitmek için ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "BOAT",
+    "key": "CFA118FE",
+    "text": "SONUÇLAR"
+  },
+  {
+    "table": "BOAT",
+    "key": "D2E85659",
+    "text": "Her ~y~şamandıra~s~ çiftinin arasından geç. ~m~~widget_accelerate~ ile gaz ver ve hareket kontrolleriyle yönlendir."
+  },
+  {
+    "table": "BOAT",
+    "key": "D4A72A4E",
+    "text": "Sağ alt köşeyi basılı tutarak ilerle ve tekneyi paralel ~y~şamandıraların~s~ arasında durdur."
+  },
+  {
+    "table": "BOAT",
+    "key": "F962E864",
+    "text": "Testten çıkmak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "BS",
+    "key": "3259E4FB",
+    "text": "Koniler boyunca arka teker üstünde git. Son hıza ulaş, ardından sol alt köşeyi aşağı doğru basılı tut."
+  },
+  {
+    "table": "BS",
+    "key": "64DCA838",
+    "text": "~m~~widget_handbrake~ tuşunu basılı tutarken sağa veya sola yönel."
+  },
+  {
+    "table": "BS",
+    "key": "73C220B0",
+    "text": "Çıkış"
+  },
+  {
+    "table": "BS",
+    "key": "86FAB6B9",
+    "text": "Motosikletle patinaj çekerek daire çiz. ~m~~widget_brake~ ve ~m~~widget_accelerate~ tuşlarını basılı tutup sağa veya sola yönel."
+  },
+  {
+    "table": "BS",
+    "key": "947A0DB7",
+    "text": "SONUÇLAR"
+  },
+  {
+    "table": "BS",
+    "key": "9E4895F2",
+    "text": "Çıkış"
+  },
+  {
+    "table": "BS",
+    "key": "A93998C9",
+    "text": "Koniler boyunca arka teker üstünde git. Son hıza ulaş, ardından ~m~~widget_ped_move_down~ tuşuna bas."
+  },
+  {
+    "table": "BS",
+    "key": "C6C6AEBE",
+    "text": "~s~Koniler boyunca ön teker üstünde git. Son hıza ulaş, hareket kontrolünü yukarı it ve ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "BS",
+    "key": "DE3EA85F",
+    "text": "Koniler boyunca arka teker üstünde git. Son hıza ulaş, ardından gaza iki kez dokunup basılı tut."
+  },
+  {
+    "table": "BS",
+    "key": "E94FA564",
+    "text": "BAŞLAT"
+  },
+  {
+    "table": "BS",
+    "key": "EACB710A",
+    "text": "Devam Et"
+  },
+  {
+    "table": "BS",
+    "key": "FB1E3B69",
+    "text": "~s~Koniler boyunca ön teker üstünde git. Son hıza ulaş, ~m~~widget_ped_move_up~ tuşunu basılı tut, ardından ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "BS",
+    "key": "FDD5F982",
+    "text": "Motosikletle patinaj çekerek daire çiz. Başlamak için ~m~~widget_handbrake~ tuşunu basılı tut."
+  },
+  {
+    "table": "BS",
+    "key": "FF9347DB",
+    "text": "~s~180 derece dönmek için son hıza ulaş, ~m~~widget_handbrake~ tuşuyla koninin etrafında kay ve geri dön."
+  },
+  {
+    "table": "BURGLAR",
+    "key": "244B4928",
+    "text": "Kamyonun arkasına git ve eşyayı bırakmak için ~m~~widget_drop_item~ tuşuna bas."
+  },
+  {
+    "table": "BURGLAR",
+    "key": "50213A75",
+    "text": "Kamyonun arkasına git ve eşyayı bırakmak için ~m~~widget_drop_item~ tuşuna bas."
+  },
+  {
+    "table": "BURGLAR",
+    "key": "88EDBE51",
+    "text": "SÜRE"
+  },
+  {
+    "table": "CASIN10",
+    "key": "E59258D3",
+    "text": "Kamera modunu değiştirmek için ~m~~widget_explicit_camera_zoom_in~ üzerinde kaydır."
+  },
+  {
+    "table": "CASIN10",
+    "key": "E65F92FD",
+    "text": "Kamera modunu değiştirmek için ~m~~widget_camera~ tuşuna bas."
+  },
+  {
+    "table": "CASIN10",
+    "key": "FEBD537F",
+    "text": "Kamera modunu değiştirmek için ~m~~widget_camera~ tuşuna bas."
+  },
+  {
+    "table": "CASINO2",
+    "key": "0CB8C373",
+    "text": "Sandığı indirmek için ~m~~widget_auto_hydraulics~ tuşuna bas."
+  },
+  {
+    "table": "CASINO6",
+    "key": "001E18E6",
+    "text": "Anahtarların önünde dur ve kullanmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "CASINO6",
+    "key": "77192870",
+    "text": "Dondurucu anahtarının önünde dur ve kapıyı açmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "CASINO6",
+    "key": "A4E386C6",
+    "text": "Dondurucu anahtarının önünde dur ve kapıyı açmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "CASINO6",
+    "key": "BDF8B787",
+    "text": "Anahtarların önünde dur ve kullanmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "CASINO9",
+    "key": "5499E50E",
+    "text": "~m~~widget_ped_move~ ile nişan al. ~m~~widget_explicit_take_cover_left~ veya ~m~~widget_explicit_take_cover_right~ ile siper al. ~m~~widget_attack~ ile ateş et."
+  },
+  {
+    "table": "CAT",
+    "key": "02B46B3D",
+    "text": "~h~Patlayıcıyı~w~ atmak için ~m~~widget_explicit_throw~ tuşuna bas. Daha uzağa atmak için ~m~~widget_explicit_throw~ tuşunu daha uzun basılı tut."
+  },
+  {
+    "table": "CAT",
+    "key": "10C67717",
+    "text": "Arkaya bakmak için ~m~~widget_explicit_look_back_keyboard~ tuşuna bas veya kamera kontrolleriyle görüşünü ayarla."
+  },
+  {
+    "table": "CAT",
+    "key": "31C2533A",
+    "text": "Arkaya bakmak için ekranın alt ortasını basılı tut veya kamera kontrolleriyle görüşünü ayarla."
+  },
+  {
+    "table": "CAT",
+    "key": "4F2D3DEC",
+    "text": "~h~Patlayıcıyı~w~ atmak için ~m~~widget_explicit_throw~ tuşuna bas. Daha uzağa atmak için ~m~~widget_explicit_throw~ tuşunu daha uzun basılı tut."
+  },
+  {
+    "table": "CAT",
+    "key": "63CEE2BB",
+    "text": "~h~Patlayıcı~w~ yapışınca ~h~ateşleyiciyi~w~ seç ve patlatmak için ~m~~widget_explicit_detonator~ tuşuna bas."
+  },
+  {
+    "table": "CAT",
+    "key": "95139757",
+    "text": "Arkaya bakmak için ~m~~widget_look_left~ ve ~m~~widget_look_right~ tuşlarına birlikte bas veya kamera kontrolleriyle görüşünü ayarla."
+  },
+  {
+    "table": "CAT",
+    "key": "EBD7CE08",
+    "text": "~h~Patlayıcı~w~ yapışınca ~h~ateşleyiciyi~w~ seç ve patlatmak için ~m~~widget_explicit_detonator~ tuşuna bas."
+  },
+  {
+    "table": "COPCAR",
+    "key": "27CC02EE",
+    "text": "ÖLDÜRME"
+  },
+  {
+    "table": "COPCAR",
+    "key": "A92892FA",
+    "text": "KALAN SÜRE"
+  },
+  {
+    "table": "CRASH1",
+    "key": "0C5804C9",
+    "text": "Yangın söndürücüyü kullanmak için ~m~~widget_explicit_extinguisher~ tuşunu basılı tut. Söndürmek için alevlerin tabanına nişan al."
+  },
+  {
+    "table": "CRASH1",
+    "key": "796950C5",
+    "text": "Molotof atmak için ~m~~widget_explicit_throw~ tuşunu basılı tut. ~m~~widget_explicit_throw~ tuşunu ne kadar uzun tutarsan o kadar uzağa atarsın. Yakına atarsan alevler seni de yakar!"
+  },
+  {
+    "table": "CRASH3",
+    "key": "1A718B40",
+    "text": "Yuvarlanmak için silahını alıp çömel. ~m~~widget_attack~ tuşunu basılı tutarken sağa veya sola hareket et."
+  },
+  {
+    "table": "CRASH3",
+    "key": "90132F68",
+    "text": "Silahın varken ~m~~widget_attack~ tuşunu basılı tutarak yana ilerleyebilirsin."
+  },
+  {
+    "table": "CRASH3",
+    "key": "E7141FFE",
+    "text": "Yana ilerlerken kamera kontrolleriyle elle nişan alıp ateş edebilirsin."
+  },
+  {
+    "table": "DS",
+    "key": "09B56377",
+    "text": "BAŞLAT"
+  },
+  {
+    "table": "DS",
+    "key": "0FB55465",
+    "text": "~m~~widget_brake~ ve ~m~~widget_accelerate~ tuşlarını basılı tutup sağa veya sola yönel."
+  },
+  {
+    "table": "DS",
+    "key": "25366FF1",
+    "text": "Havada takla atıp düzgün in. Havadayken gazı bırak ve aracın eğimini ayarlamak için ekranın sol tarafını bir yöne basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "25F5F4AD",
+    "text": "Saat yönü için ~m~~widget_school_left~, tersi için ~m~~widget_school_right~ tuşuna bas."
+  },
+  {
+    "table": "DS",
+    "key": "3783C01F",
+    "text": "Havada takla atıp düzgün in. Gazı bırak ve aracın eğimini ~m~~widget_vehicle_steer_left~ ile ~m~~widget_vehicle_steer_right~ tuşlarını basılı tutarak ayarla."
+  },
+  {
+    "table": "DS",
+    "key": "4F42B99B",
+    "text": "~s~Önden çekişli araçla geri git ve hızla 180 derece dön. Arkaya bakmak için ~m~~widget_look_left~ ve ~m~~widget_look_right~ tuşlarını birlikte basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "559F0022",
+    "text": "SONUÇLAR"
+  },
+  {
+    "table": "DS",
+    "key": "584564F2",
+    "text": "Başlamak için ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "67A962A0",
+    "text": "~s~180 derece dönmek için son hıza ulaş, ~m~~widget_handbrake~ ile el freni yaparak koninin etrafında dön ve geri gel."
+  },
+  {
+    "table": "DS",
+    "key": "74FB7604",
+    "text": "Başlamak için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "97D1F6D4",
+    "text": "Çıkış"
+  },
+  {
+    "table": "DS",
+    "key": "9F04D678",
+    "text": "Başlamak için ekranın sağ tarafını ve ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "B2849125",
+    "text": "~s~Önden çekişli araçla geri git, ardından hızla 180 derece dön. Arkaya bakmak için ekranın boş bir alanını basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "B5AD5111",
+    "text": "Başlamak için ~m~~widget_handbrake~ tuşunu basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "C18B5152",
+    "text": "Havada takla atıp düzgün in. Gazı bırak ve aracın eğimini ~m~~widget_ped_move_left~ ile ~m~~widget_ped_move_right~ tuşlarını basılı tutarak ayarla."
+  },
+  {
+    "table": "DS",
+    "key": "C2AA6187",
+    "text": "Patinaja başlamak için sağa veya sola yönel."
+  },
+  {
+    "table": "DS",
+    "key": "CC965198",
+    "text": "Devam Et"
+  },
+  {
+    "table": "DS",
+    "key": "CDF2F367",
+    "text": "Saat yönü için ~m~~widget_school_left~, tersi için ~m~~widget_school_right~ tuşuna bas."
+  },
+  {
+    "table": "DS",
+    "key": "CFCE6EEF",
+    "text": "Başlamak için ekranın sağ alt tarafını basılı tut."
+  },
+  {
+    "table": "DS",
+    "key": "D8061111",
+    "text": "Geçmek için 12 testin tamamında en az BRONZ almalısın."
+  },
+  {
+    "table": "DSERT5",
+    "key": "01CF7F21",
+    "text": "~s~Şimdi hareket kontrolünü sola it ve basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "01F27C58",
+    "text": "İleri hızını korumak için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "05188B44",
+    "text": "Saat yönü için ~m~~widget_school_left~, tersi için ~m~~widget_school_right~ tuşuna bas."
+  },
+  {
+    "table": "DSERT5",
+    "key": "08443073",
+    "text": "Çok hızlı alçalırsan ~m~~widget_brake~ tuşunu bırak ve alçalmayı yavaşlatmak için ekranın sağ tarafını basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "11DC095B",
+    "text": "~s~Şimdi ~m~~widget_ped_move~ kontrolünü geriye çek."
+  },
+  {
+    "table": "DSERT5",
+    "key": "12A48AB3",
+    "text": "Çıkış"
+  },
+  {
+    "table": "DSERT5",
+    "key": "16D11389",
+    "text": "Yüksekliği korumak için ~m~~widget_accelerate~ tuşunu basılı tut. Uçağı düz tutup ilk ~y~halkaya~s~ yönel."
+  },
+  {
+    "table": "DSERT5",
+    "key": "1B87FA01",
+    "text": "Pistte hızlanmak için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "235460C9",
+    "text": "~s~Halkaya girince ~m~~widget_ped_move_down~ tuşunu basılı tutarak burnu hızla kaldır; tam döngü yapmak için tutmaya devam et."
+  },
+  {
+    "table": "DSERT5",
+    "key": "23ED061D",
+    "text": "Yükselmek için ~m~~widget_explicit_flight_ascend~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "27464AFC",
+    "text": "Alçalmayı yavaşlatmak için ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "2A5B4A36",
+    "text": "İlerlemek ve ~y~halkaya~s~ yönelmek için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "2D368E2F",
+    "text": "Yükselmeyi durdurup düz uçmak için ~m~~widget_accelerate~ tuşunu bırak."
+  },
+  {
+    "table": "DSERT5",
+    "key": "2EF006D7",
+    "text": "~s~Uçağın burnunu aşağıda tutmak için hareket kontrolünü yukarı it ve basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "34CA0743",
+    "text": "Yavaşça alçalıp inmek için ~m~~widget_brake~ tuşunu basılı tut. Ek puan için ~y~hedef alanına~s~ in."
+  },
+  {
+    "table": "DSERT5",
+    "key": "37EC5A52",
+    "text": "Fareyi sağa veya sola kaydırarak helikopteri 180 derece döndür. Kırmızı işarete yönel."
+  },
+  {
+    "table": "DSERT5",
+    "key": "43CD37D5",
+    "text": "Çok hızlı alçalırsan ~m~~widget_brake~ tuşunu bırak ve alçalmayı yavaşlatmak için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "44A0F3CC",
+    "text": "İleri hızını korumak için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "533E9446",
+    "text": "~s~Şimdi ~m~~widget_ped_move~ kontrolünü geriye çek."
+  },
+  {
+    "table": "DSERT5",
+    "key": "5387F292",
+    "text": "~s~Helikopterin burnunu kaldırmak için hareket kontrolünü aşağı it ve basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "54EA368B",
+    "text": "Alçalmak için ~m~~widget_explicit_flight_descend~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "5A88D86D",
+    "text": "Halkaya girince fareyi aşağı kaydırarak burnu hızla kaldır; tam döngü yapmak için devam et."
+  },
+  {
+    "table": "DSERT5",
+    "key": "5D5C7AA0",
+    "text": "~s~Helikopterin burnunu kaldırmak için ~m~~widget_ped_move_down~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "666532DD",
+    "text": "~s~Paraşütü açmak için şimdi ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "DSERT5",
+    "key": "66DB39CD",
+    "text": "~s~Şimdi hareket kontrolünü aşağı çek."
+  },
+  {
+    "table": "DSERT5",
+    "key": "6A50FA60",
+    "text": "~s~Paraşütü açmak için şimdi ekranın ortasına iki kez dokun."
+  },
+  {
+    "table": "DSERT5",
+    "key": "6C15F60E",
+    "text": "~m~~widget_enter_car~ Çıkış"
+  },
+  {
+    "table": "DSERT5",
+    "key": "72F1520B",
+    "text": "Devam etmek için ~m~~widget_school_continue~, çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "DSERT5",
+    "key": "75B7A19B",
+    "text": "~s~Sonraki ~y~halkaya~s~ alçalmak için ~m~~widget_ped_move~ kontrolünü yukarı it."
+  },
+  {
+    "table": "DSERT5",
+    "key": "782EC4FC",
+    "text": "Yüksekliği korumak için ekranın sağ alt köşesini basılı tut. Uçağı düz tutup ilk ~y~halkaya~s~ yönel."
+  },
+  {
+    "table": "DSERT5",
+    "key": "7C2ADA39",
+    "text": "Devam etmek için ~m~~widget_school_continue~, çıkmak için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "DSERT5",
+    "key": "7CA251B0",
+    "text": "SÜRE"
+  },
+  {
+    "table": "DSERT5",
+    "key": "7F4300E5",
+    "text": "Alçalmak için ~m~~widget_brake~ tuşunu basılı tut. Yükselmek için ekranın sağ tarafına bas."
+  },
+  {
+    "table": "DSERT5",
+    "key": "886B53F1",
+    "text": "Serbest düşüşte öne dalmak için ~m~~widget_ped_move_up~ tuşuna bas."
+  },
+  {
+    "table": "DSERT5",
+    "key": "88D558E1",
+    "text": "~s~Uçağın kuyruğu yükselince hareket kontrolünü aşağı çekerek burnu kaldır ve havalan."
+  },
+  {
+    "table": "DSERT5",
+    "key": "8F566896",
+    "text": "Yükselmek için ekranın sağ tarafını basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "961DA6A9",
+    "text": "~s~Sonraki ~y~halkaya~s~ dönmek için hareket kontrolünü aşağı ve sola basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "9620A5D0",
+    "text": "Yükselmeyi durdurup düz uçmak için ekranın sağ tarafını bırak."
+  },
+  {
+    "table": "DSERT5",
+    "key": "98C62E9B",
+    "text": "~s~Şimdi ~m~~widget_ped_move~ kontrolünü sola it ve basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "9BB9C0B7",
+    "text": "~s~İniş takımlarını toplamak için ~m~~widget_explicit_toggle_landing_gear~ tuşuna bas."
+  },
+  {
+    "table": "DSERT5",
+    "key": "9C77B8AE",
+    "text": "Çıkış"
+  },
+  {
+    "table": "DSERT5",
+    "key": "9FAC8746",
+    "text": "BAŞLAT"
+  },
+  {
+    "table": "DSERT5",
+    "key": "A4751AD2",
+    "text": "Çok hızlı alçalırsan ~m~~widget_explicit_flight_descend~ tuşunu bırakıp ~m~~widget_explicit_flight_ascend~ tuşunu basılı tutarak yavaşla."
+  },
+  {
+    "table": "DSERT5",
+    "key": "A6018BAB",
+    "text": "Yüksekliği korumak için fareyi aşağı kaydır. Uçağı düz tutup ilk ~y~halkaya~s~ yönel."
+  },
+  {
+    "table": "DSERT5",
+    "key": "A75347C3",
+    "text": "Yükselmeyi durdurup düz uçmak için ~m~~widget_explicit_flight_ascend~ tuşunu bırak."
+  },
+  {
+    "table": "DSERT5",
+    "key": "AAF721DD",
+    "text": "~s~Halkaya girince takla atmak için ~m~~widget_ped_move~ kontrolünü sola it ve basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "AD8752D4",
+    "text": "SÜRE"
+  },
+  {
+    "table": "DSERT5",
+    "key": "ADC356F9",
+    "text": "Alçalmak için ~m~~widget_explicit_flight_descend~, yükselmek için ~m~~widget_explicit_flight_ascend~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "B0949374",
+    "text": "Uçak yavaşça alçalmaya başlayana kadar hız düşürmek için ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "B3521B8C",
+    "text": "~m~~widget_vehicle_turret_left~ ve ~m~~widget_vehicle_turret_right~ ile helikopteri 180 derece döndür. Kırmızı işarete yönel."
+  },
+  {
+    "table": "DSERT5",
+    "key": "B3B5A3A1",
+    "text": "Roket için ~m~~widget_explicit_flight_secondary_attack~ tuşuna bas. Makineli tüfek için ~m~~widget_explicit_flight_primary_attack~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "B7F9576D",
+    "text": "~s~Uçağın burnunu aşağıda tutmak için ~m~~widget_ped_move~ kontrolünü yukarı it ve basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "B9417DE2",
+    "text": "Roket için ~m~~widget_rocket~ tuşuna bas. Makineli tüfek için ~m~~widget_air_gun~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "BAE457A7",
+    "text": "Yatış yapmak için ~m~~widget_ped_move_left~ veya ~m~~widget_ped_move_right~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "BD30F56A",
+    "text": "Sonraki ~y~halkaya~s~ dönmek için hareket kontrolünü sola basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "C047012F",
+    "text": "~s~Sonraki ~y~halkaya~s~ dönmek için hareket kontrolünü aşağı ve sağa basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "C338EF03",
+    "text": "Yükselmek için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "C38189D7",
+    "text": "~s~Şimdi hareket kontrolünü aşağı it."
+  },
+  {
+    "table": "DSERT5",
+    "key": "C4B29337",
+    "text": "Roket için ~m~~widget_rocket~ tuşuna bas. Makineli tüfek için ~m~~widget_air_gun~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "C83A76C7",
+    "text": "Saat yönünde dönmek için ekranın sol alt köşesini basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "CA8EA328",
+    "text": "~s~Helikopterin burnunu kaldırmak için ~m~~widget_ped_move_down~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "CDE36731",
+    "text": "Alçalmak için ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "CEC53A20",
+    "text": "Yavaşça alçalmak ve inmek için ~m~~widget_explicit_flight_descend~ tuşunu basılı tut. Ek puan için ~y~hedef alanına~s~ in."
+  },
+  {
+    "table": "DSERT5",
+    "key": "D0547755",
+    "text": "Yatış yapmak için hareket kontrolünü basılı tutup sağa veya sola yönel."
+  },
+  {
+    "table": "DSERT5",
+    "key": "D95C306E",
+    "text": "Sonraki ~y~halkaya~s~ dönmek için hareket kontrolünü sağa basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "DAC4666F",
+    "text": "Alçalmak için ~m~~widget_brake~, yükselmek için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "E1279546",
+    "text": "İlerlemek ve ~y~halkaya~s~ yönelmek için ekranın sağ tarafını basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "E5B6B71A",
+    "text": "~s~Halkaya girince takla atmak için hareket kontrolünü sola it ve basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "EB708838",
+    "text": "Devam Et"
+  },
+  {
+    "table": "DSERT5",
+    "key": "EBD33438",
+    "text": "~s~Sonraki ~y~halkaya~s~ alçalmak için hareket kontrolünü yukarı it."
+  },
+  {
+    "table": "DSERT5",
+    "key": "ECBEF021",
+    "text": "Burnu kaldır ve son ~y~halkaya~s~ yükselmek için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "F791FB8D",
+    "text": "Fareyi aşağı kaydırarak burnu kaldır ve son ~y~halkaya~s~ yeniden yüksel."
+  },
+  {
+    "table": "DSERT5",
+    "key": "FA067E5B",
+    "text": "Burnu kaldır ve son ~y~halkaya~s~ yükselmek için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "FBC72F86",
+    "text": "Saat yönü için ~m~~widget_school_left~, tersi için ~m~~widget_school_right~ tuşuna bas."
+  },
+  {
+    "table": "DSERT5",
+    "key": "FCAD865B",
+    "text": "~s~Halkaya girince hareket kontrolünü aşağı çekerek burnu hızla kaldır. Tam döngü yapmak için basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "FDE204B4",
+    "text": "Pistte hızlanmak için ekranın sağ tarafını basılı tut."
+  },
+  {
+    "table": "DSERT5",
+    "key": "FFD26877",
+    "text": "~s~Uçağın kuyruğu yükselince ~m~~widget_ped_move~ kontrolünü geriye çekerek burnu kaldır ve havalan."
+  },
+  {
+    "table": "DSERT8",
+    "key": "15938EE6",
+    "text": "Jetpack ile yana ilerlemek için ~m~~widget_ped_move_left~ ve ~m~~widget_ped_move_right~ tuşlarını basılı tut."
+  },
+  {
+    "table": "DSERT8",
+    "key": "230EA085",
+    "text": "~s~Geri dön ve jetpack'i al!"
+  },
+  {
+    "table": "DSERT8",
+    "key": "2B8AFE0D",
+    "text": "İtişi artırıp yükselmek için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "DSERT8",
+    "key": "4FE156CD",
+    "text": "Hızlı alçalmak için ~m~~widget_explicit_flight_descend~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT8",
+    "key": "6827E1FF",
+    "text": "Jetpack ile yana hareket etmek için hareket kontrollerini kullan."
+  },
+  {
+    "table": "DSERT8",
+    "key": "75540703",
+    "text": "Hızlı alçalmak için ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT8",
+    "key": "8BF71B45",
+    "text": "Gözlük seçiliyken termal görüşü açıp kapatmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "DSERT8",
+    "key": "8E421F4A",
+    "text": "Gözlük seçiliyken termal görüşü açıp kapatmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "DSERT8",
+    "key": "92EC2A04",
+    "text": "İtişi artırıp yükselmek için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT8",
+    "key": "CB5F1713",
+    "text": "İtişi artırıp yükselmek için ~m~~widget_explicit_flight_ascend~ tuşunu basılı tut."
+  },
+  {
+    "table": "DSERT9",
+    "key": "5BB9325B",
+    "text": "~s~Düşerken paraşütü açmak için ekranın ortasına iki kez dokun."
+  },
+  {
+    "table": "DSERT9",
+    "key": "8FD84233",
+    "text": "~s~Düşerken paraşütü açmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "DUAL",
+    "key": "1446D36E",
+    "text": "Ateş etmek için ~m~~widget_arcade_button~, çıkmak için ~m~~widget_arcade_power_off~ tuşuna bas."
+  },
+  {
+    "table": "DUAL",
+    "key": "177603E5",
+    "text": "Oyun çubuğuyla yönlendir. Seçmek için ~m~~widget_arcade_button~ tuşunu kullan."
+  },
+  {
+    "table": "DUAL",
+    "key": "2AD8877F",
+    "text": "PUAN"
+  },
+  {
+    "table": "DUAL",
+    "key": "BF6E5CB4",
+    "text": "S"
+  },
+  {
+    "table": "DUAL",
+    "key": "ED237586",
+    "text": "Ateş etmek için ~m~~widget_arcade_button~, çıkmak için ~m~~widget_arcade_power_off~ tuşuna bas."
+  },
+  {
+    "table": "FARLIE2",
+    "key": "15480903",
+    "text": "~r~Pakete~w~ yaklaşınca almak için ~m~~widget_grab~ tuşuna bas."
+  },
+  {
+    "table": "FARLIE2",
+    "key": "30676048",
+    "text": "~s~~r~Paketi~s~ kapmak için ~m~~widget_grab~ tuşuna bas."
+  },
+  {
+    "table": "FARLIE2",
+    "key": "D29FA1B7",
+    "text": "~s~~r~Paketi~s~ kapmak için ~m~~widget_grab~ tuşuna bas."
+  },
+  {
+    "table": "FARLIE2",
+    "key": "FCACC075",
+    "text": "~r~Pakete~w~ yaklaşınca almak için ~m~~widget_grab~ tuşuna bas."
+  },
+  {
+    "table": "FIRETRK",
+    "key": "12CB2C31",
+    "text": "Tazyikli su sıkmak için ~m~~widget_vc_shoot~ tuşunu basılı tut. Kamera kontrolleriyle nişan al."
+  },
+  {
+    "table": "FIRETRK",
+    "key": "57890D20",
+    "text": "KALAN SÜRE"
+  },
+  {
+    "table": "FIRETRK",
+    "key": "6F09C215",
+    "text": "Aracın sirenini açmak için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "FIRETRK",
+    "key": "A0195DC0",
+    "text": "Aracın sirenini açmak için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "FTRAIN",
+    "key": "F208933A",
+    "text": "SÜRE"
+  },
+  {
+    "table": "GARAGE1",
+    "key": "183FED3A",
+    "text": "Korna çalmak için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "GARAGE1",
+    "key": "9B4B3CD8",
+    "text": "Korna çalmak için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "GRAV",
+    "key": "070F4EB0",
+    "text": "Uçmak için ~m~~widget_arcade_button~, çıkmak için ~m~~widget_arcade_power_off~ tuşuna bas."
+  },
+  {
+    "table": "GRAV",
+    "key": "9A6BD4AC",
+    "text": "S"
+  },
+  {
+    "table": "GYM",
+    "key": "1F9D1161",
+    "text": "Yerdeki rakibe saldırmak için ~m~~widget_enter_targeting~ ve ~m~~widget_explicit_alt_attack~ tuşlarına bas."
+  },
+  {
+    "table": "GYM",
+    "key": "62F3833B",
+    "text": "Koşarken ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "GYM",
+    "key": "689A21F7",
+    "text": "Koşarken ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "GYM",
+    "key": "718110B6",
+    "text": "Koş ve ~m~~widget_attack~ tuşuna bas!"
+  },
+  {
+    "table": "GYM",
+    "key": "869440DB",
+    "text": "~m~~widget_attack~ tuşuna art arda dokun."
+  },
+  {
+    "table": "GYM",
+    "key": "8CFDE217",
+    "text": "Koş ve ~m~~widget_attack~ tuşuna bas!"
+  },
+  {
+    "table": "GYM",
+    "key": "C5C7B831",
+    "text": "Yerdeki rakibe saldırmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "GYM",
+    "key": "FC971698",
+    "text": "~m~~widget_enter_targeting~ ve ~m~~widget_explicit_alt_attack~ tuşlarına bas."
+  },
+  {
+    "table": "HEIST1",
+    "key": "AFF622F4",
+    "text": "HAYIR için ~m~~widget_reply_no~, EVET için ~m~~widget_reply_yes~ tuşuna dokun."
+  },
+  {
+    "table": "HEIST2",
+    "key": "09223736",
+    "text": "~s~~y~Jeneratöre~s~ yaklaşınca patlayıcı yerleştirmek için ~m~~widget_vehicle_bomb~ tuşuna bas. Her ~y~jeneratöre~s~ bir tane gerekiyor."
+  },
+  {
+    "table": "HEIST2",
+    "key": "0E4FF32F",
+    "text": "Patlayıcı yerleştirmek için ~m~~widget_vehicle_bomb~ tuşuna bas."
+  },
+  {
+    "table": "HEIST2",
+    "key": "1D5EE7BA",
+    "text": "Halkaya ulaşınca uçaktan atlamak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "HEIST2",
+    "key": "6BA027EF",
+    "text": "Halkaya ulaşınca uçaktan atlamak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "HEIST2",
+    "key": "A62B11C5",
+    "text": "~s~Uçaktan atlamak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "HEIST2",
+    "key": "AA036E68",
+    "text": "~s~~y~Jeneratöre~s~ yaklaşınca patlayıcı yerleştirmek için ~m~~widget_vehicle_bomb~ tuşuna bas. Her ~y~jeneratöre~s~ bir tane gerekiyor."
+  },
+  {
+    "table": "HEIST2",
+    "key": "CE6FAB6C",
+    "text": "Patlayıcı yerleştirmek için ~m~~widget_vehicle_bomb~ tuşuna bas."
+  },
+  {
+    "table": "HEIST2",
+    "key": "DD75421C",
+    "text": "~s~Uçaktan atlamak için ~m~~widget_enter_car~ tuşuna bas."
+  },
+  {
+    "table": "HEIST4",
+    "key": "0922EA31",
+    "text": "SÜRE"
+  },
+  {
+    "table": "HEIST5",
+    "key": "11EE7FF0",
+    "text": "Kamera kontrolleriyle nişangâhı hareket ettir. Ateş etmek için ~m~~widget_attack~, çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "HEIST5",
+    "key": "2B50797D",
+    "text": "Silahı kullanmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "HEIST5",
+    "key": "66E94F66",
+    "text": "Silahı kullanmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "HEIST5",
+    "key": "B25928C7",
+    "text": "Kamera kontrolleriyle nişangâhı hareket ettir. Ateş etmek için ~m~~widget_attack~, çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "HEIST5",
+    "key": "C01B0C94",
+    "text": "Silahı kullanmak için jetpack'i bırakmalısın."
+  },
+  {
+    "table": "HEIST9",
+    "key": "03B9EFFC",
+    "text": "Gece görüş gözlüğünü seç ve açmak için ~m~~widget_explicit_NVG~ tuşuna bas."
+  },
+  {
+    "table": "HEIST9",
+    "key": "2010E2B7",
+    "text": "SÜRE"
+  },
+  {
+    "table": "HEIST9",
+    "key": "2B5234C7",
+    "text": "~s~Düşerken paraşütü açmak için ekranın ortasına iki kez dokun."
+  },
+  {
+    "table": "HEIST9",
+    "key": "55E3487A",
+    "text": "Kartı kullanmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "HEIST9",
+    "key": "AE87D487",
+    "text": "~s~Düşerken paraşütü açmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "HEIST9",
+    "key": "D1B8DE1E",
+    "text": "Gece görüş gözlüğünü seç ve açmak için ~m~~widget_explicit_NVG~ tuşuna bas."
+  },
+  {
+    "table": "HEIST9",
+    "key": "D535A2AC",
+    "text": "Kartı kullanmak için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "HEIST9",
+    "key": "FA7737A3",
+    "text": "Kapıyı kaldırmak için ~m~~widget_auto_hydraulics~ tuşuna bas."
+  },
+  {
+    "table": "INTRO1",
+    "key": "044678A8",
+    "text": "Eğilmek için ~m~~widget_ped_move_up~ ve ~m~~widget_ped_move_down~ tuşlarını basılı tut."
+  },
+  {
+    "table": "INTRO1",
+    "key": "CDC2CE10",
+    "text": "Bisikletle zıplamak için ~m~~widget_accelerate~ tuşuna iki kez dokun."
+  },
+  {
+    "table": "INTRO1",
+    "key": "DBFD18C7",
+    "text": "Bisikletle zıplamak için ~m~~widget_explicit_bunny_hop~ tuşunu basılı tut."
+  },
+  {
+    "table": "INTRO1",
+    "key": "E223861D",
+    "text": "Eğilmek için ekranın sol alt köşesini basılı tut."
+  },
+  {
+    "table": "INTRO1",
+    "key": "F3976091",
+    "text": "Bisikletle zıplamak için ekranın sağ alt köşesine iki kez dokun."
+  },
+  {
+    "table": "KICKSTT",
+    "key": "2B02FCD2",
+    "text": "SÜRE"
+  },
+  {
+    "table": "LAFIN1",
+    "key": "59104FFF",
+    "text": "Araçta etrafa bakmak için kamera kontrollerini kullan. Ateş etmek için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "LAFIN1",
+    "key": "949B79D5",
+    "text": "Araçta etrafa bakmak için kamera kontrollerini kullan. Ateş etmek için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "MAN_2",
+    "key": "1029964E",
+    "text": "Hedef kırmızı olunca kilitlenmiştir. Güdümlü füze atmak için ~m~~widget_rocket~ tuşuna bas."
+  },
+  {
+    "table": "MAN_2",
+    "key": "9893F270",
+    "text": "Hedef kırmızı olunca kilitlenmiştir. Güdümlü füze atmak için ~m~~widget_rocket~ tuşuna bas."
+  },
+  {
+    "table": "MAN_2",
+    "key": "99AB91A3",
+    "text": "Gemilere kilitlen ve ~m~~widget_rocket~ ile ateş et. Her gemiyi yok etmek için birkaç isabet gerekir."
+  },
+  {
+    "table": "MAN_2",
+    "key": "B1CE841D",
+    "text": "Gemilere kilitlen ve ~m~~widget_rocket~ ile ateş et. Her gemiyi yok etmek için birkaç isabet gerekir."
+  },
+  {
+    "table": "MAN_2",
+    "key": "B3FAA59E",
+    "text": "Düşman roketlerini şaşırtan karşı önlemleri atmak için ~m~~widget_explicit_flight_primary_attack~ tuşuna bas."
+  },
+  {
+    "table": "MAN_2",
+    "key": "EF737ACB",
+    "text": "Jet modu ve havada asılı kalma modu arasında geçmek için ~m~~widget_explicit_flight_descend~ tuşuna bas."
+  },
+  {
+    "table": "MAN_3",
+    "key": "B43BC465",
+    "text": "KALAN SÜRE"
+  },
+  {
+    "table": "MENU2P",
+    "key": "8A7560FE",
+    "text": "EVET"
+  },
+  {
+    "table": "MENU2P",
+    "key": "FD725068",
+    "text": "HAYIR"
+  },
+  {
+    "table": "OTB",
+    "key": "2274C847",
+    "text": "Çıkmak için ~m~~widget_mission_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "OTB",
+    "key": "9AE09785",
+    "text": "KAZANILAN:"
+  },
+  {
+    "table": "OTB",
+    "key": "DCB0CFD9",
+    "text": "Hareket kontrolleriyle soldan at seç. Sağdaki tuşlarla bahsini ayarla. Çıkmak için ~m~~widget_itb_exit~ tuşuna bas."
+  },
+  {
+    "table": "OTB",
+    "key": "EA04236F",
+    "text": "BAHİS:"
+  },
+  {
+    "table": "PIMP",
+    "key": "4DC2D553",
+    "text": "SÜRE"
+  },
+  {
+    "table": "POOL",
+    "key": "0095D2E2",
+    "text": "Vuruş için ~m~~widget_attack~, nişan almaya dönmek için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "1E63AF39",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "309CED3A",
+    "text": "Hareket kontrolleriyle ıstakayı yönlendir. Görünüm: ~m~~widget_camera~. Vuruşa geç: ~m~~widget_gambling_continue~. Çık: ~m~~widget_minigame_cancel~."
+  },
+  {
+    "table": "POOL",
+    "key": "3B90AF45",
+    "text": "Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "40F619B5",
+    "text": "Beyaz topu sürükleyerek yerleştir. Devam etmek için ~m~~widget_gambling_continue~, çıkmak için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "POOL",
+    "key": "625D51AA",
+    "text": "Hareket kontrolleriyle beyaz topu yerleştir. Devam etmek için ~m~~widget_gambling_continue~, çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "A299FEFF",
+    "text": "Hareket kontrolleriyle ıstakayı yönlendir. Görünüm: ~m~~widget_camera~. Vuruşa geç: ~m~~widget_gambling_continue~. Çık: ~m~~widget_minigame_cancel~."
+  },
+  {
+    "table": "POOL",
+    "key": "A74E34B2",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "AEF87899",
+    "text": "Hareket kontrolleriyle ıstakayı yönlendir. Görünümü ~m~~widget_camera~ ile kaydırarak değiştir. Vuruşa geçmek için ~m~~widget_gambling_continue~, çıkmak için ~m~~widget_minigame_cancel~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "D59ECE69",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "D9FF480F",
+    "text": "Devam etmek için ~m~~widget_gambling_continue~ tuşuna bas."
+  },
+  {
+    "table": "POOL",
+    "key": "DE928C16",
+    "text": "Bahsi artırmak için ~m~~widget_place_bet~, azaltmak için ~m~~widget_remove_bet~ tuşunu basılı tut. Çıkmak için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "POOL",
+    "key": "E6F02C57",
+    "text": "Vurmak için parmağını ekranda aşağı kaydırıp bırak. Nişan almaya dönmek için ~m~~widget_minigame_cancel~ tuşuna dokun."
+  },
+  {
+    "table": "QUARRY",
+    "key": "28721016",
+    "text": "Kendi en iyi sürene karşı yarışıyorsun. Görevi atlamak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "QUARRY",
+    "key": "916640AB",
+    "text": "Kendi en iyi sürene karşı yarışıyorsun. Görevi atlamak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "QUARRY",
+    "key": "B17B41AC",
+    "text": "Kamyonun damperini kaldırıp indirmek için ~m~~widget_auto_hydraulics~ tuşuna bas."
+  },
+  {
+    "table": "RACETOR",
+    "key": "627BE355",
+    "text": "SÜRE"
+  },
+  {
+    "table": "RACETOR",
+    "key": "84051F8F",
+    "text": "Yarış seçmek için ~m~~widget_race_left~ veya ~m~~widget_race_right~ tuşuna bas. Başlamak için ~m~~widget_store_accept~, çıkmak için ~m~~widget_store_cancel~ tuşuna bas."
+  },
+  {
+    "table": "RIOT4",
+    "key": "34345B20",
+    "text": "Etrafa bakmak için ekranın ortasını kaydır. Ateş etmek için ~m~~widget_vc_shoot~ tuşuna dokun."
+  },
+  {
+    "table": "RIOT4",
+    "key": "4C97C2F7",
+    "text": "Ateş etmek için ~m~~widget_vc_shoot~ tuşuna bas."
+  },
+  {
+    "table": "RIOT4",
+    "key": "626EFCA6",
+    "text": "SÜRE"
+  },
+  {
+    "table": "RIOT4",
+    "key": "8B0D5993",
+    "text": "Gece görüş gözlüğünü envanterden seç ve kullanmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "RIOT4",
+    "key": "D59E934D",
+    "text": "Etrafa bakmak için ~m~~widget_explicit_move_x~, ateş etmek için ~m~~widget_vc_shoot~ tuşunu kullan."
+  },
+  {
+    "table": "RIOT4",
+    "key": "FED2A913",
+    "text": "Gece görüş gözlüğünü envanterden seç ve kullanmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "RUN_2P",
+    "key": "F35F52F2",
+    "text": "~s~Diğer oyuncunun yanında durup ~m~~widget_phone~ tuşuna basarak onu öpebilirsin."
+  },
+  {
+    "table": "RYDER1",
+    "key": "0BA33355",
+    "text": "Evde sessizce çömelerek ilerlemek için ekranın sol alt köşesine iki kez dokun."
+  },
+  {
+    "table": "RYDER1",
+    "key": "EDC6CDE0",
+    "text": "Evde sessizce çömelerek ilerlemek için ~m~~widget_explicit_crouch~ tuşuna bas."
+  },
+  {
+    "table": "RYDER2",
+    "key": "1C330B90",
+    "text": "Ryder'ın kutu atması için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "RYDER2",
+    "key": "5F6AF209",
+    "text": "Ryder'ın kutu atması için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "RYDER2",
+    "key": "A6A42A56",
+    "text": "Forklift çatallarını kontrol etmek için ~m~~widget_auto_hydraulics~ tuşuna bas."
+  },
+  {
+    "table": "RYDER2",
+    "key": "AF12667D",
+    "text": "Forkliftte kutuları almak ve bırakmak için ~m~~widget_attack~ tuşunu basılı tut."
+  },
+  {
+    "table": "RYDER2",
+    "key": "C663A3B3",
+    "text": "Sola ve sağa bakmak için ~m~~widget_look_left~ ve ~m~~widget_look_right~ tuşlarını basılı tut."
+  },
+  {
+    "table": "RYDER2",
+    "key": "E71E892D",
+    "text": "Forklift çatallarını kontrol etmek için ~m~~widget_auto_hydraulics~ tuşuna bas."
+  },
+  {
+    "table": "RYDER3",
+    "key": "44B10AAB",
+    "text": "Atış gücünü artırmak için ~m~~widget_attack~ tuşunu basılı tut, atmak için ~m~~widget_attack~ tuşunu bırak."
+  },
+  {
+    "table": "RYDER3",
+    "key": "8AD0EE34",
+    "text": "SÜRE"
+  },
+  {
+    "table": "SHTR",
+    "key": "11B15835",
+    "text": "Ateş etmek için ~m~~widget_arcade_button~, çıkmak için ~m~~widget_arcade_power_off~ tuşuna bas."
+  },
+  {
+    "table": "SHTR",
+    "key": "48B21473",
+    "text": "S"
+  },
+  {
+    "table": "SMOKE2",
+    "key": "B8F73FD1",
+    "text": "Hızlı koşmak için ~m~~widget_sprint~ tuşunu basılı tut."
+  },
+  {
+    "table": "SMOKE2",
+    "key": "E8F24EED",
+    "text": "Hızlı koşmak için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "SMOKE4",
+    "key": "38E66DAD",
+    "text": "Motosiklette etrafa bakmak için parmağını ekranda kaydır. Ateş etmek için ~m~~widget_attack~ tuşuna dokun."
+  },
+  {
+    "table": "SMOKE4",
+    "key": "39C2AD8F",
+    "text": "Düşmanlar siper alıyorsa ateş ederken elle nişan almak daha etkili olabilir."
+  },
+  {
+    "table": "SMOKE4",
+    "key": "D95F48E9",
+    "text": "Motosiklette etrafa bakmak için kamera kontrollerini kullan. Ateş etmek için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "STEAL2",
+    "key": "2AF64031",
+    "text": "Nitroyu açmak için ~m~~widget_nitro~ tuşuna bas."
+  },
+  {
+    "table": "STEAL2",
+    "key": "9830273F",
+    "text": "Nitroyu açmak için ~m~~widget_nitro~ tuşuna bas."
+  },
+  {
+    "table": "STEAL4",
+    "key": "3E611365",
+    "text": "Konteyner doğru konumdayken bırakmak için ~m~~widget_drop_crane~ tuşuna bas."
+  },
+  {
+    "table": "STEAL4",
+    "key": "496623F3",
+    "text": "Halatı kaldırmak için ~m~~widget_crane_down~ tuşunu basılı tut."
+  },
+  {
+    "table": "STEAL4",
+    "key": "5800AEB8",
+    "text": "Konteyner doğru konumdayken bırakmak için ~m~~widget_drop_crane~ tuşuna bas."
+  },
+  {
+    "table": "STEAL4",
+    "key": "A2EF4632",
+    "text": "Vinçten çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "STEAL4",
+    "key": "BE73739E",
+    "text": "Mıknatısı indirmek için ~m~~widget_crane_down~, kaldırmak için ~m~~widget_crane_up~ tuşunu basılı tut."
+  },
+  {
+    "table": "STEAL4",
+    "key": "D06F7249",
+    "text": "Halatı indirmek için ~m~~widget_crane_up~ tuşunu basılı tut."
+  },
+  {
+    "table": "STEAL4",
+    "key": "D702B650",
+    "text": "Vinci hareket ettirmek istediğin yöne bas. Kamera görünümünü ~m~~widget_camera~ ile değiştir."
+  },
+  {
+    "table": "STEAL4",
+    "key": "DEB4FA7B",
+    "text": "Vinçten çıkmak için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "STEAL5",
+    "key": "05E71F86",
+    "text": "Çivili şerit bırakmak için ~m~~widget_stinger~ tuşuna bas."
+  },
+  {
+    "table": "STEAL5",
+    "key": "B7217888",
+    "text": "Çivili şerit bırakmak için ~m~~widget_stinger~ tuşuna bas."
+  },
+  {
+    "table": "STRAP2",
+    "key": "02E43838",
+    "text": "Muhafıza dokunarak nişan al ve yavaşça yaklaş. Yanına gelince ~m~~widget_attack~ tuşuna dokunarak sessizce öldür."
+  },
+  {
+    "table": "STRAP2",
+    "key": "75E308AE",
+    "text": "Sessizce öldürmek için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "STRAP2",
+    "key": "A28B4B9D",
+    "text": "Sessizce öldürmek için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "STRAP2",
+    "key": "AB03CB16",
+    "text": "~m~~widget_enter_targeting~ ile muhafıza nişan alıp yavaşça yaklaş. Kolun kalkınca ~m~~widget_attack~ tuşuyla sessizce öldür."
+  },
+  {
+    "table": "STRAP3",
+    "key": "13BFAC73",
+    "text": "Şimdi atlamak için ~m~~widget_enter_car~ tuşuna bas!"
+  },
+  {
+    "table": "STRAP3",
+    "key": "8F03F9C6",
+    "text": "Şimdi atlamak için ~m~~widget_enter_car~ tuşuna bas!"
+  },
+  {
+    "table": "STRAP3",
+    "key": "D58C7B0B",
+    "text": "İskelenin sonuna kadar hızını koru, ardından ~m~~widget_enter_car~ ile araçtan atla."
+  },
+  {
+    "table": "STRAP3",
+    "key": "F804C950",
+    "text": "İskelenin sonuna kadar hızını koru, ardından ~m~~widget_enter_car~ ile araçtan atla."
+  },
+  {
+    "table": "STUNT",
+    "key": "F2C86088",
+    "text": "KALAN SÜRE"
+  },
+  {
+    "table": "SWEET1",
+    "key": "2F6ACA5F",
+    "text": "Duvarın önünde dur ve tırmanmak için ekranın sağ alt köşesine iki kez dokun."
+  },
+  {
+    "table": "SWEET1",
+    "key": "65EBB548",
+    "text": "Grafitinin tamamı boyanana kadar ~m~~widget_attack~ tuşunu basılı tut."
+  },
+  {
+    "table": "SWEET1",
+    "key": "7414C1D3",
+    "text": "Duvarın önünde dur ve tırmanmak için ~m~~widget_sprint~ tuşunu basılı tut."
+  },
+  {
+    "table": "SWEET1",
+    "key": "7CB15C8A",
+    "text": "Çitin önünde dur ve tırmanmak için ~m~~widget_sprint~ tuşuna iki kez dokun."
+  },
+  {
+    "table": "SWEET1",
+    "key": "8BBB0E32",
+    "text": "Çitin önünde dur ve tırmanmak için ekranın sağ alt köşesine iki kez dokun."
+  },
+  {
+    "table": "SWEET1",
+    "key": "8BE5D464",
+    "text": "Grafitiye bak ve boyamak için ~m~~widget_attack~ tuşunu basılı tut."
+  },
+  {
+    "table": "SWEET1",
+    "key": "A51349B1",
+    "text": "Çitin önünde dur ve tırmanmak için ~m~~widget_sprint~ tuşunu basılı tut."
+  },
+  {
+    "table": "SWEET1",
+    "key": "E5B80D30",
+    "text": "Duvara tırmanmak için ~m~~widget_sprint~ tuşuna iki kez dokun."
+  },
+  {
+    "table": "SWEET1",
+    "key": "F554A8D9",
+    "text": "Çete üyesinin yüzüne sprey sıkmak için ~m~~widget_attack~ tuşunu basılı tut."
+  },
+  {
+    "table": "SWEET2",
+    "key": "0B2F0E69",
+    "text": "Kilitliyken ~m~~widget_look_left~ veya ~m~~widget_look_right~ ile hedef değiştirebilirsin."
+  },
+  {
+    "table": "SWEET2",
+    "key": "28B795DC",
+    "text": "Silah becerisi yükseldikçe silahları daha iyi kullanırsın. Yayanken becerini görmek için ~m~~widget_player_info~ tuşunu basılı tut."
+  },
+  {
+    "table": "SWEET2",
+    "key": "34B5700B",
+    "text": "Çömelmek isabeti artırır. Çömelmek için ekranın sol alt köşesine iki kez dokun."
+  },
+  {
+    "table": "SWEET2",
+    "key": "4D607B12",
+    "text": "~m~~widget_enter_targeting~ ile nişan al, ardından ~m~~widget_attack~ ile ateş et."
+  },
+  {
+    "table": "SWEET2",
+    "key": "52957CFF",
+    "text": "Çömelmek isabeti artırır. Çömelmek için ~m~~widget_explicit_crouch~ tuşuna bas."
+  },
+  {
+    "table": "SWEET2",
+    "key": "AB0585A7",
+    "text": "Hedefe kilitlenmek için ekrana dokun. Ateş etmek için ~m~~widget_attack~ tuşuna dokun."
+  },
+  {
+    "table": "SWEET2",
+    "key": "C1D430E9",
+    "text": "Elle nişan almak için ateş ederken ekranın ortasına dokunup sağa ve sola kaydır."
+  },
+  {
+    "table": "SWEET2",
+    "key": "ED4AF0DC",
+    "text": "Kilitliyken ekranın ortasını kaydırarak hedef değiştirebilirsin."
+  },
+  {
+    "table": "SWEET4",
+    "key": "90125C02",
+    "text": "Araçtayken sola veya sağa bakmak için ~m~~widget_look_left~ veya ~m~~widget_look_right~ tuşunu basılı tut."
+  },
+  {
+    "table": "SWEET5",
+    "key": "2E041003",
+    "text": "Alçak duvarları ve nesneleri siper olarak kullan. Çömelmek için ekranın sol alt köşesine iki kez dokun."
+  },
+  {
+    "table": "SWEET5",
+    "key": "A76292F0",
+    "text": "Alçak duvarları ve nesneleri siper olarak kullan. Çömelmek için ~m~~widget_explicit_crouch~ tuşuna bas."
+  },
+  {
+    "table": "SWEET6",
+    "key": "1E3A80C4",
+    "text": "Aracın hidroliklerini kaldırıp indirmek için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "SWEET6",
+    "key": "90381B24",
+    "text": "Aracın hidroliklerini kaldırıp indirmek için ~m~~widget_horn~ tuşuna bas."
+  },
+  {
+    "table": "SWEET6",
+    "key": "CF1F83A0",
+    "text": "Hidrolikleri yönlendirmek için direksiyonu kullanırken ~m~~widget_hydraulics~ tuşunu basılı tut. Konumu kilitlemek için ~m~~widget_hydraulics~ tuşuna dokun."
+  },
+  {
+    "table": "SWEET7",
+    "key": "04F5E15B",
+    "text": "Çetenin seni takip etmesi için ~m~~widget_gang_follow~ tuşuna dokun."
+  },
+  {
+    "table": "SWEET7",
+    "key": "2F365B41",
+    "text": "Çete üyesine dokunarak nişan al, grubuna katmak için ~m~~widget_gang_recruit~ tuşuna dokun."
+  },
+  {
+    "table": "SWEET7",
+    "key": "2F5F76CA",
+    "text": "Çetene seni takip etmesini söylemek için ~m~~widget_gang_follow~, yerinde beklemesi için ~m~~widget_gang_hold~ tuşuna bas."
+  },
+  {
+    "table": "SWEET7",
+    "key": "4B5A9E45",
+    "text": "SÜRE"
+  },
+  {
+    "table": "SWEET7",
+    "key": "62F0B07B",
+    "text": "Çetene seni takip etmesini söylemek için ~m~~widget_gang_follow~, yerinde beklemesi için ~m~~widget_gang_hold~ tuşuna dokun."
+  },
+  {
+    "table": "SWEET7",
+    "key": "8E96CE07",
+    "text": "Çete üyesine nişan al ve grubuna katmak için ~m~~widget_gang_recruit~ tuşuna bas."
+  },
+  {
+    "table": "SWEET7",
+    "key": "FBF9E1C1",
+    "text": "Kimseye nişan almadan ~m~~widget_gang_hold~ tuşunu birkaç saniye basılı tutmak veya gruptan çok uzaklaşmak grubu dağıtır."
+  },
+  {
+    "table": "SYN1",
+    "key": "09059DB7",
+    "text": "~m~~widget_zoom_in~ Yakınlaştır. ~m~~widget_zoom_out~ Uzaklaştır."
+  },
+  {
+    "table": "SYN7",
+    "key": "7D59A1F4",
+    "text": "~m~~widget_vehicle_bomb~ Bombayı etkinleştir."
+  },
+  {
+    "table": "TAXI1",
+    "key": "97D29548",
+    "text": "SÜRE"
+  },
+  {
+    "table": "TORENO1",
+    "key": "5E039F65",
+    "text": "SÜRE"
+  },
+  {
+    "table": "TRU2",
+    "key": "1C35578F",
+    "text": "Roketatarla nişan almak için ~m~~widget_enter_targeting~ tuşuna bas."
+  },
+  {
+    "table": "TRU2",
+    "key": "6B326719",
+    "text": "Nişan alırken roket atmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "TRU2",
+    "key": "E846B6FB",
+    "text": "Nişan alırken roket atmak için ~m~~widget_attack~ tuşuna bas."
+  },
+  {
+    "table": "TRU2",
+    "key": "F15D87BA",
+    "text": "Roketatarla nişan almak için ~m~~widget_enter_targeting~ tuşuna bas."
+  },
+  {
+    "table": "WUZI2",
+    "key": "08B67B86",
+    "text": "Dinleme cihazını yerleştirmek için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "WUZI2",
+    "key": "9367EA2A",
+    "text": "Dinleme cihazını yerleştirmek için ~m~~widget_mission_start~ tuşuna bas."
+  },
+  {
+    "table": "WUZI2",
+    "key": "9B5AD276",
+    "text": "Zıplayıp sudan çıkmak için ekranın sağ alt köşesine iki kez dokun."
+  },
+  {
+    "table": "WUZI2",
+    "key": "BC5893DC",
+    "text": "Zıplayıp sudan çıkmak için ~m~~widget_explicit_jump~ tuşuna bas."
+  },
+  {
+    "table": "ZERO1",
+    "key": "1BC3C781",
+    "text": "Minigun ile ateş etmek için ~m~~widget_vc_shoot~ tuşunu basılı tut."
+  },
+  {
+    "table": "ZERO2",
+    "key": "00C02444",
+    "text": "YAKIT"
+  },
+  {
+    "table": "ZERO2",
+    "key": "17009D37",
+    "text": "Makineli tüfekleri ateşlemek için ~m~~widget_air_gun~ tuşuna bas."
+  },
+  {
+    "table": "ZERO2",
+    "key": "1C50DDAA",
+    "text": "Makineli tüfekleri ateşlemek için ~m~~widget_air_gun~ tuşuna bas."
+  },
+  {
+    "table": "ZERO2",
+    "key": "2947E10D",
+    "text": "Kendini imha etmek için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "ZERO2",
+    "key": "592D1582",
+    "text": "Gazı artırmak için ~m~~widget_accelerate~, azaltmak için ~m~~widget_brake~ tuşunu basılı tut."
+  },
+  {
+    "table": "ZERO2",
+    "key": "5E40D19B",
+    "text": "SÜRE"
+  },
+  {
+    "table": "ZERO2",
+    "key": "8CD10C9B",
+    "text": "Kendini imha etmek için ~m~~widget_mission_cancel~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "23E3CEA3",
+    "text": "Nesneyi almak için ~m~~widget_magnet~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "248E0ABA",
+    "text": "Helikopter pervanesini hızlandırıp yükselmek için ~m~~widget_accelerate~ tuşunu basılı tut."
+  },
+  {
+    "table": "ZERO4",
+    "key": "2A4CC85A",
+    "text": "Nesneyi almak için ~m~~widget_magnet~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "53A9272D",
+    "text": "Helikopteri saat yönünün tersine döndürmek için ~m~~widget_vehicle_turret_left~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "650D5E9D",
+    "text": "Nesneyi bırakmak için ~m~~widget_magnet~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "91C7CCDA",
+    "text": "Helikopteri saat yönünde döndürmek için ~m~~widget_vehicle_turret_right~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "9EB54B55",
+    "text": "Helikopter pervanesini hızlandırıp yükselmek için ekranın sağ alt köşesini basılı tut."
+  },
+  {
+    "table": "ZERO4",
+    "key": "BD875B00",
+    "text": "Nesneyi bırakmak için ~m~~widget_magnet~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "C33627BD",
+    "text": "Helikopteri saat yönünün tersine döndürmek için ~m~~widget_vehicle_turret_left~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "CAA07697",
+    "text": "Helikopteri saat yönünde döndürmek için ~m~~widget_vehicle_turret_right~ tuşuna bas."
+  },
+  {
+    "table": "ZERO4",
+    "key": "E6C0FC4C",
+    "text": "Helikopter pervanesini yavaşlatıp alçalmak için ~m~~widget_brake~ tuşunu basılı tut."
+  }
+]

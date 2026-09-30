@@ -1,0 +1,22 @@
+{
+  "version": "2.11.311",
+  "tested_platform": "Android ARM64",
+  "base_apk_sha256": "351dd1cfc14643e7d478b0649d7ac7f5293e6368eaac1ee5035de4d0caba4ed7",
+  "arm64_apk_sha256": "5c8fb46dde141b863c21653bf3c548e287679b1ec0908429ade093f6928c0986",
+  "pc_gxt_sha256": "dfe2fa75ac2aaaaf8922f45654f6028e993071e59ece24e0ef7411ecfc191c7a",
+  "pc_font_sha256": "a781f462c25fbbb2e277cfa2d30d8f9e469ebd99e5d965d5fdcbb7e6ae72785e",
+  "assets_sha256": {
+    "assets/texdb/txd/txd.dxt.dat": "dcafb2c4d3bdb4fb6bcd0851e45913798f3857c06f0fe5196de1c78bb366f9d4",
+    "assets/texdb/txd/txd.dxt.tmb": "ea686f4dcca5f14e5b92a5cfae7b50ea2c258f00eefb410c1af688076d8f9197",
+    "assets/texdb/txd/txd.dxt.toc": "7bf889b78d536d6b94f28361329308f1d29781f3526a484272eb21f15af5b856",
+    "assets/texdb/txd/txd.etc.dat": "f82a78adfc15b03f9b0cd69396f9ab0fa5888417087f69ade637873a8146d91c",
+    "assets/texdb/txd/txd.etc.tmb": "e8c19a824e81a36cf5d4975fc26cb3753a8f51f7c9b6b4aa0b0e9bcc5bd0d4e5",
+    "assets/texdb/txd/txd.etc.toc": "f74f96a2effe438bfecea75d173cce177908a9b9442a9689c24575738fb352cb",
+    "assets/texdb/txd/txd.pvr.dat": "e1f290ae32ee2875d13de960f69a6ed0d65004c946a462a380561c748d3354f2",
+    "assets/texdb/txd/txd.pvr.tmb": "05a9ee0e3244dc3d3039f710e4c30ade868dcf17785682f46dbc7f82f0ed0dad",
+    "assets/texdb/txd/txd.pvr.toc": "8c0d050d17107253b90a8a2ef8c00609ec5aa7b597e4e8c1abc37eac3e519c8e",
+    "assets/texdb/txd/txd.txt": "f5deb7ae70ca062e365a3c9a41ad64761a2b3ef9dd766f4e0191f2b0bc77217c",
+    "assets/texdb/txd/txd.unc.tmb": "499ca7de150e3bffdd5940891b25a57ec553e855bd436e6a478d88e14762e96b",
+    "assets/text/american.gxt": "e6851e366a70c941c7420540702ee79b20c257cdf72b8837500d94b8b2f61155"
+  }
+}
